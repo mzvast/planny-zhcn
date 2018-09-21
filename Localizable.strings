@@ -1,0 +1,1048 @@
+/*
+ Localizable.strings
+ Planny
+ 
+ Created by Kevin Reutter on 19.09.17.
+ Copyright © 2017 Kevin Reutter. All rights reserved.
+ */
+
+" / Year" = " / Jahr";
+" / 3 Months" = " / 3 Monate";
+
+"1 Year" = "Ein Jahr";
+"3 Months" = "3 Monate";
+
+"Weekly trial" = "Wöchentliche Testphase";
+
+"Task planned" = "Aufgabe geplant";
+"Task completed" = "Aufgabe abgeschlossen";
+"Task delayed" = "Aufgabe verschoben";
+"Task removed" = "Aufgabe entfernt";
+"Task not completed" = "Aufgabe nicht erledigt";
+
+"You earn points for planning and completing tasks. If you delay your tasks you'll lose points. Every new day you'll get an overview and your daily points are updated. Add friends to compare your productivity over the week." = "Du erhältst Punkte für das Planen und Erledigen von Aufgaben. Wenn du Aufgaben verschiebst, verlierst du Punkte. Jeden Tag erhältst du eine Übersicht und deine Punkte werden aktualisiert. Füge Freunde hinzu und vergleiche die Produktivität über die Woche.";
+
+"Your earned points: " = "Deine verdienten Punkte: ";
+
+"Shift" = "Verschieben";
+
+"Restore purchases" = "Einkäufe wiederherstellen";
+
+"Push required" = "Benachrichtigungen benötigt";
+
+"Go to your system settings and enable push notifications for Planny" = "Geh in die Systemeinstellungen und aktiviere Push-Benachrichtigungen für Planny";
+
+"End of day" = "Ende des Tages";
+
+"Gamification / Review" = "Gamification / Rückblick";
+
+"Tap here to see some recommendations" = "Tippe hier, um deine Vorschläge anzuzeigen";
+
+"Tap to plan the next day" = "Tippe hier, um den nächsten Tag zu planen";
+
+"Planny Teamwork List" = "Planny Teamwork Liste";
+
+"Click a task to get more actions like completing, settings deadlines, adding notes and more 👆🏼" = "Klicke auf eine Aufgabe um Optionen wie Erledigen, Setzen einer Deadline, Notizen oder weiteren zu erreichen 👆🏼";
+
+"During the day and if you tend to forget your tasks, you get intelligent reminders" = "Während des Tages erhältst du intelligente Erinnerungen, sofern du dazu neigst, deine Aufgaben zu vergessen 💡";
+
+"Just select tasks you want to work on today by clicking 😊" = "Wähle durch Klicken die Aufgaben aus, an denen du arbeiten möchtest 😊";
+
+"You only see people that have access to the list and are in your iCloud contacts" = "Du siehst nur Kontakte, die Zugriff zu der Liste haben und in deinen iCloud Kontakten verfügbar sind";
+
+
+"Assign to" = "Jemandem zuordnen";
+
+"Completed task" = "Abgeschlossene Aufgabe";
+
+"Updated task" = "Geänderte Aufgabe";
+
+"Added task" = "Hinzugefügte Aufgabe";
+
+"Added note" = "Hinzugefügte Notiz";
+
+"I don't have any recommendations yet. Create some lists first ☺️" = "Ich habe noch keine Vorschläge für Dich. Erstelle zuerst einige Listen ☺️";
+
+"Search for lists" = "Listen durchsuchen";
+
+"End teamwork" = "Teamwork beenden";
+
+"You're not longer a member of this list. It was removed." = "Du bist nicht länger Teil dieser Liste. Sie wurde entfernt.";
+
+"subscriptionInfo" = "Eine Planny Teamwork Mitgliedschaft bietet dir alle Vorteile von Planny Teamwork. Beachte, dass ein iCloud-Account benötigt wird. Planny bietet zwei Abonnements an. Einkäufe werden zwischen iOS und macOS synchronisiert.
+
+Planny Teamwork 3 Monate
+€3,49 / Monat (abweichend je nach Land & Währung)
+
+Planny Teamwork 1 Jahr
+€9,99 / Jahr (abweichend je nach Land & Währung)
+
+Jedes Abo verlängert sich automatisch, wenn Du nicht bis spätestens 24 Stunden vor Ablauf der jeweils aktuellen Buchungsperiode kündigst.   Bei der Verlängerung deines Abos wird dein iTunes-Account automatisch mit demselben Betrag belastet, wie bei der ersten Buchung, falls du nicht mindestens 24 Stunden vor Ablauf der aktuellen Laufzeit deine Abo-Einstellungen in Deinem iTunes-Account änderst.
+
+Abos können von dem Nutzer in den Account Einstllungen verwaltet oder ausgeschaltet. werden
+ 
+Im Falle einer Kündigung läuft dein Zugang zu den Features zum Ende der Laufzeit deines Abos ab.";
+
+
+"You can share your points, a name and a picture with your iCloud contacts. These images are also shown in shared lists." = "Du kannst ein Pseudonym, ein Bild und deine Punkte mit deinen iCloud Kontakten teilen. Diese Aufgaben erscheinen auch in geteilten Listen.";
+
+// old
+"Downloading" = "Herunterladen";
+
+"Don't close the app while downloading your data. Depending on your network and the amount of data it might take some time." = "Schließe nicht die App während bisherige Daten heruntergeladen werden. Je nach Netzwerk und Menge der Daten kann dies einige Zeit in Anspruch nehmen";
+
+"Please activate iCloud sync inside the Planny settings to share lists" = "Bitte aktiviere den iCloud Sync in den Planny Einstellungen um Listen zu teilen";
+
+"You've completed all your tasks" = "Du hast alle Aufgaben erledigt";
+
+"Hey. It's time to plan your day" = "Hey. Es ist Zeit, deinen Tag zu planen";
+
+"No calendars available or deactivated in iOS privacy settings" = "Keine Kalender verfügbar oder in den iOS Privatsphäreeinstellungen deaktiviert";
+
+"More" = "Mehr";
+
+"These events are on your calendar. Maybe you'd like to add some as tasks? 🤔" = "Diese Ereignisse sind in deinem Kalender. Vielleicht möchtest du eins als Aufgabe hinzufügen? 🤔";
+
+
+// OLD 2.0
+
+"Tutorial" = "Erste Schritte";
+
+"Couldn't accept share. This might be the case if you're not invited or you are the owner of the shared data." = "Einladung konnte nicht akzeptiert werden. Dies ist der Fall, wenn du nicht eingeladen bist oder der Besitzer der Liste bist";
+
+"Share failed" = "Teilen fehlgeschlagen";
+
+"Couldn't share list. Please try again later. If share still doesn't work choose another list." = "Liste konnte nicht geteilt werden. Bitte später erneut probieren. Wenn es weiterhin nicht funktioniert, eine andere Liste auswählen.";
+
+"This task is already assigned to someone" = "Diese Aufgabe erledigt bereits jemand";
+
+//Tutorial
+"You have access to the shared list and can complete the tasks" = "Du hast nun Zugriff auf die Liste und kannst die Aufgaben erledigen";
+
+"Skip" = "Überspringen";
+
+"By using the app you accept the privacy policy and conditions available on" = "Mit Nutzung der App wird die Privacy Policy akzeptiert, zu finden unter: ";
+
+
+"Hi, my name is Planny and I'm going to help you complete all your daily tasks and improve your productivity" = "Hi, ich bin Planny und ich helfe dir, alle deine Aufgaben zu erledigen und deine Produktivität zu steigern";
+
+"Every day starts by planning your day" = "Jeder Tag beginnt damit, ihn zu planen";
+
+
+"You get a recommended lists of tasks you can do today. They include tasks from your lists, already planned tasks, routines or tasks you didn't complete yesterday" = "Jeden Tag erhältst du eine Liste mit Vorschlägen. Diese Vorschläge basieren auf deinen Listen, Routinen, geplanten Aufgaben, Aufgaben, die gestern nicht erledigt wurden, ...";
+
+"Just select tasks you want to work on today by tapping 😊" = "Wähle einfach die Aufgaben aus, an denen du arbeiten möchtest und starte in deinen Tag 😊";
+
+"Then you get to your daily list. It shows all the tasks to work on today" = "Deine tägliche Liste zeigt alle Aufgaben für den heutigen Tag an";
+
+"Swipe from the right to the left to mark a task as completed, delete or edit 👉🏼" = "Wische von rechts nach links, um eine Aufgabe zu erledigen 👉🏼";
+
+"Tap a task to get more actions like settings deadlines, adding notes and more 👆🏼" = "Tippe eine Aufgabe an, um weitere Optionen zu erhalten 👆🏼";
+
+
+"If available, 3D-Touch a task to see available notes" = "Wenn verfügbar, nutze 3D-Touch auf einer Aufgabe, um die verfügbaren Notizen zu sehen";
+
+"You can disable them in the settings" = "Du kannst diese bei Bedarf in den Einstellungen deaktivieren";
+
+
+"You can also add the Planny widget to your homescreen and mark tasks as completed by tapping" = "Du kannst auch das Widget auf dem Homescreen hinzufügen, um Aufgaben von dort aus zu erledigen";
+
+"To help you improve your productivity there are some great features 😊" = "Um deine Produktivität zu verbessern, gibt es einige Gimmicks 😊";
+
+"After each day you get a review of your last day ⭐️" = "Nach jedem Tag erhältst du eine Bewertung des vorherigen Tages ⭐️";
+
+"Complete as many tasks as possible and collect points for your productivity" = "Erledige so viele Aufgaben wie möglich und erhalte Punkte für deine Produktivität";
+
+"Compare your weekly producitivty with all of your friends" = "Vergleiche deine wöchentliche Produktivität mit deinen Freunden";
+
+"You will also receive rewards for being productive" = "Mit der Zeit wirst du dann Auszeichnungen für deine Produktivität erhalten";
+
+"Planny is free, but with limits 😊" = "Planny ist kostenlos, aber mit Limits 😊";
+
+"With Planny Pro you get features like sync, location based reminders, the forecast for viewing upcoming tasks and more 🎉" = "Mit Planny Pro schaltest du weitere Funktionen wie den Sync, ortsbasierte Erinnerungen und den Ausblick für anstehende Aufgaben sowie weitere Funktionen frei 🎉";
+
+
+"With Planny Teamwork you can also invite your friends to a list and work together" = "Mit Planny Teamwork kannst du Listen mit deinen Kontakten teilen und zusammen arbeiten";
+
+"These purchases are one time and available on all your devices" = "Diese Käufe sind einmalig und auf allen Geräten verfügbar";
+
+"That's everything that's important. The best way to learn is to try it out" = "Das war das Wichtigste. Der beste Weg sich zurechtzufinden, ist die App einfach auszuprobieren";
+
+"If there are any issues or questions contact me before despairing or getting angry 😊" = "Wenn es Probleme oder Fragen gibt, kontaktiere mich, bevor du verzweifelst oder dich aufregst 😊";
+
+
+"Select list" = "Liste auswählen";
+
+"These are your completed tasks" = "Dies sind deine erledigten Aufgaben";
+
+"Work together" = "Arbeitet zusammen";
+"Unlock all features" = "Schalte alles frei";
+
+"You didn't complete any tasks" = "Du hast keine Aufgaben erledigt";
+
+"You've completed all of your tasks. Tap the button on the top to show them" = "Du hast all deine Aufgaben erledigt. Tippe den Button oben an, um sie anzuzeigen";
+
+"These tasks weren't completed" = "Diese Aufgaben wurden nicht erledigt";
+
+"Already work in progress" = "Bereits in Arbeit";
+
+"This task is already assigned to " = "Diese Aufgabe erledigt bereits ";
+
+"Work on" = "Mir zuordnen";
+
+"Support / Developer" = "Support / Entwickler";
+
+"Today" = "Heute";
+
+"Show me my important list" = "Zeige mir meine wichtige Liste";
+
+"Show today's tasks" = "Zeige die heutigen Aufgaben";
+
+"Show all the tasks that are due today" = "Zeige alle Aufgaben, die heute erledigt werden müssen";
+
+"Show all upcoming tasks" = "Zeige alle anstehenden Aufgaben";
+
+"Show all the tasks that are upcoming" = "Zeige alle Aufgaben, die bald anstehen";
+
+"Stop work on" = "Arbeit beenden";
+
+"Unlock Pro features" = "Hol dir mehr";
+
+"Unlock Teamwork" = "Hol dir mehr";
+
+"Search results" = "Suchergebnisse";
+
+"ProFeatures" = "Ausblick (Geplante Aufgaben)
+ Ortsabhängige Erinnerungen
+ Mehr als 4 Listen
+ Notizen mit Fotos
+ iCloud Sync
+ iCloud Backup
+ Vergangene Tage
+
+Schlagwörter
+
+Unterstützen der Entwicklung";
+
+"TeamworkFeatures" = "Teile Listen und deren Aufgaben mit Freunden und Kollegen  Betrachte geteilte Listen von Anderen
+
+Sieh, wer welche Aufgaben erledigt  Teilt die Aufgaben unter euch auf  Erhalte Benachrichtigungen für Änderungen
+
+ 
+Eine Planny Teamwork Mitgliedschaft bietet dir alle Vorteile von Planny Teamwork. Beachte, dass ein iCloud-Account benötigt wird. Planny bietet zwei Abonnements an. Einkäufe werden zwischen iOS und macOS synchronisiert.
+
+Planny Teamwork 3 Monate
+€4,99 / Monat (abweichend je nach Land & Währung)
+
+Planny Teamwork 1 Jahr
+€9,99 / Jahr (abweichend je nach Land & Währung)
+
+Jedes Abo verlängert sich automatisch, wenn Du nicht bis spätestens 24 Stunden vor Ablauf der jeweils aktuellen Buchungsperiode kündigst.   Bei der Verlängerung deines Abos wird dein iTunes-Account automatisch mit demselben Betrag belastet, wie bei der ersten Buchung, falls du nicht mindestens 24 Stunden vor Ablauf der aktuellen Laufzeit deine Abo-Einstellungen in Deinem iTunes-Account änderst.
+
+Abos können von dem Nutzer in den Account Einstllungen verwaltet oder ausgeschaltet. werden
+ 
+Im Falle einer Kündigung läuft dein Zugang zu den Features zum Ende der Laufzeit deines Abos ab.
+
+
+Privacy policy for Planny: http://kevinreutter.de/privacy
+Terms of use / Conditions: http://kevinreutter.de/privacy";
+
+"Activating sync" = "Sync aktivieren";
+
+"Don't close the app while activating and downloading existing data. Depending on your network and the amount of data it might take some time." = "Schließe nicht die App, während der Sync aktiviert und bisherige Daten heruntergeladen werden. Je nach Netzwerk und Menge der Daten kann dies einige Zeit in Anspruch nehmen.";
+
+"I don't have any suggestions at this time. Come back after adding some tasks 🙂"
+= "Ich habe zum aktuellen Zeitpunkt keine Aufgaben für Dich. Komm zurück, wenn du einige Listen oder Routinen angelegt hast 🙂";
+
+"Become Pro" = "Werde Pro-Mitglied";
+
+"Continue to plan the day 😊" = "Plane jetzt deinen aktuellen Tag 😊";
+
+"Continue" = "Weiter";
+
+"Review" = "Rückblick";
+
+"You didn't complete many tasks yesterday. Try to do better today" = "Du hast nicht viele Aufgaben geschafft. Versuch heute besser zu sein";
+
+"You've completed some of your tasks. Try to do better today 🙂" = "Du hast einige deiner Aufgaben erledigt. Versuch heute, mehr zu schaffen 🙂";
+
+"You've completed more than half of your tasks. Great 😊" = "Du hast mehr als die Hälfte deiner Aufgaben erledigt. Großartig 😊";
+
+"You've completed many tasks. Great 😊" = "Du hast viele deiner gestrigen Aufgaben erledigt. Super! 🎉";
+
+"Yesterday was a great day! You've completed all of your tasks 🎉" = "Gestern war ein großartiger Tag. Du hast alle deine Aufgaben erledigt 🎉";
+
+"Results" = "Ergebnisse";
+
+" Points earned" = " Punkte erhalten";
+
+"Selected list" = "Ausgewählte Liste";
+
+"Rewards" = "Auszeichnungen";
+
+"For You" = "Für Dich";
+
+"Achieved" = "Erreicht";
+
+"Save" = "Sichern";
+
+"Select calendars" = "Kalender auswählen";
+
+"Weekly ranking" = "Wöchentliches Ranking";
+
+"Assign to list" = "Zu Liste hinzufügen";
+
+"Forecast" = "Ausblick";
+
+"Close" = "Schließen";
+
+
+"Complete 20 tasks to get this reward" = "Erledige 20 Aufgaben um diese Auszeichnung zu erhalten";
+
+"Complete 50 tasks to get this reward" = "Erledige 50 Aufgaben um diese Auszeichnung zu erhalten";
+
+"Complete 100 tasks to get this reward" = "Erledige 100 Aufgaben um diese Auszeichnung zu erhalten";
+
+"Complete 250 tasks to get this reward" = "Erledige 250 Aufgaben um diese Auszeichnung zu erhalten";
+
+"Complete 500 tasks to get this reward" = "Erledige 500 Aufgaben um diese Auszeichnung zu erhalten";
+
+"Complete 750 tasks to get this reward" = "Erledige 750 Aufgaben um diese Auszeichnung zu erhalten";
+
+
+"Complete 1000 tasks to get this reward" = "Erledige 1000 Aufgaben um diese Auszeichnung zu erhalten";
+
+"Plan one day with Planny" = "Plane einen Tag mit Planny";
+
+"Plan 5 days with Planny" = "Plane 5 Tage mit Planny";
+
+"Plan 10 days with Planny" = "Plane 10 Tage mit Planny";
+
+"Plan 25 days with Planny" = "Plane 25 Tage mit Planny";
+
+"Plan 50 days with Planny" = "Plane 50 Tage mit Planny";
+
+"Plan 75 days with Planny" = "Plane 75 Tage mit Planny";
+
+"Plan 100 days with Planny" = "Plane 100 Tage mit Planny";
+
+"Complete all your tasks on one day" = "Erledige alle Aufgaben an einem Tag";
+
+"Complete all your tasks on 3 days in a row" = "Erledige 3 Tage in Folge alle Aufgaben";
+
+"Complete all your tasks on 7 days in a row" = "Erledige 7 Tage in Folge alle Aufgaben";
+
+"Complete all your tasks on 30 days in a row" = "Erledige 30 Tage in Folge alle Aufgaben";
+
+"Complete a full list of tasks and mark the list as completed" = "Erledige alle Aufgaben einer Liste und markiere sie als erledigt";
+
+"Complete 10 full lists of tasks and mark the lists as completed" = "Erledige alle Aufgaben von 10 Liste und markiere sie als erledigt";
+
+"Complete 20 full lists of tasks and mark the lists as completed" = "Erledige alle Aufgaben von 20 Liste und markiere sie als erledigt";
+
+"Complete 30 full lists of tasks and mark the lists as completed" = "Erledige alle Aufgaben von 30 Liste und markiere sie als erledigt";
+
+
+//
+
+"Hey. Not asleep yet? 🤔" = "Hey. Noch nicht am schlafen? 🤔";
+
+"Good morning! 🐔" = "Guten Morgen! 🐔";
+
+"Welcome back 🙂" = "Willkommen zurück 🙂";
+
+"Hello 🙂" = "Hallo 🙂";
+
+"Good evening 🙂" = "Guten Abend 🙂";
+
+"Hey 🙂" = "Hey 🙂";
+
+// Suggestions
+"I have some recommended tasks for you. Select the ones you want to work on today" = "Ich habe einige Vorschläge für Dich. Wähle die Aufgaben aus, an denen du heute arbeiten möchtest";
+
+"You really have to do these tasks today 😲" = "Du musst diese Aufgaben wirklich heute erledigen! 😲";
+
+"You didn't complete these yesterday" = "Diese hast du gestern nicht mehr geschafft";
+
+"I think you can do these tasks today" = "Ich denke mir, dass du diese Aufgaben gut machen könntest";
+
+"Just one day left 😨 You should do these today!" = "Noch ein Tag verbleibend! 😨 Du solltest diese unbedignt heute erledigen";
+
+// Placeholder is inserted
+"A small selection. You have " = "Eine kleine Auswahl für heute. Du hast noch ";
+
+" days left" = " Tage übrig";
+
+"This list is overdue 😳" = "Diese Liste ist überfällig 😳";
+
+// List name is inserted
+"Here are tasks from your list " = "Hier sind einige Aufgaben von deiner Liste ";
+
+"You already thought about doing these ... what about doing them today? 🤔" = "Du hast dir diese bereits notiert ... wie wär es, diese heute zu erledigen?";
+
+"That's it" = "Das war alles";
+
+"Lists" = "Listen";
+
+"Open tasks" = "Offene Aufgaben";
+
+"Done tasks" = "Erledigte Aufgaben";
+
+"Search for future tasks" = "Suche nach zukünftigen Aufgaben";
+
+"Do today" = "Heute erledigen";
+
+"Make routine" = "Routine erstellen";
+
+"Search for tasks" = "Suche nach Aufgaben";
+
+"Completed lists" = "Abgeschlossene Listen";
+
+"Open lists" = "Offene Listen";
+
+"These are your completed tasks" = "Dies sind deine erledigten Aufgaben";
+
+"Delete list" = "Liste löschen";
+
+// REWARDS
+
+"New reward" = "Neue Auszeichnung";
+
+"One planned day" = "Ein Tag geplant";
+
+"You've planned your first day with Planny. Amazing!" = "Du hast deinen ersten Tag mit Planny geplant. Großartig!";
+
+"5 planned days" = "Fünf Tage geplant";
+
+"You've planned 5 days with Planny. Amazing!" = "Du hast 5 Tage mit Planny geplant. Großartig!";
+
+"10 planned days" = "10 Tage geplant";
+
+"You've planned 10 days with Planny. Amazing!" = "Du hast 10 Tage mit Planny geplant. Großartig!";
+
+
+"25 planned days" = "25 Tage geplant";
+
+"You've planned 25 days with Planny. Amazing!" = "Du hast 25 Tage mit Planny geplant. Großartig!";
+
+"50 planned days" = "50 Tage geplant";
+
+"You've planned 50 days with Planny. Amazing!" = "Du hast 50 Tage mit Planny geplant. Großartig!";
+
+"75 planned days" = "75 Tage geplant";
+
+"You've planned 75 days with Planny. Amazing!" = "Du hast 75 Tage mit Planny geplant. Großartig!";
+
+
+"100 planned days" = "100 Tage geplant";
+
+"You've planned 100 days with Planny. Amazing!" = "Du hast 100 Tage mit Planny geplant. Großartig!";
+
+
+
+
+"20 completed tasks" = "20 erledigte Aufgaben";
+
+"You've completed 20 tasks. Great!" = "Du hast 20 Aufgaben erledigt. Großartig!";
+
+
+"50 completed tasks" = "50 erledigte Aufgaben";
+
+"You've completed 50 tasks. Great!" = "Du hast 50 Aufgaben erledigt. Großartig!";
+
+
+"100 completed tasks" = "100 erledigte Aufgaben";
+
+"You've completed 100 tasks. Great!" = "Du hast 100 Aufgaben erledigt. Großartig!";
+
+
+"250 completed tasks" = "250 erledigte Aufgaben";
+
+"You've completed 250 tasks. Great!" = "Du hast 250 Aufgaben erledigt. Großartig!";
+
+
+
+"500 completed tasks" = "500 erledigte Aufgaben";
+
+"You've completed 500 tasks. Great!" = "Du hast 500 Aufgaben erledigt. Großartig!";
+
+
+"750 completed tasks" = "750 erledigte Aufgaben";
+
+"You've completed 750 tasks. Great!" = "Du hast 750 Aufgaben erledigt. Großartig!";
+
+
+"1000 completed tasks" = "1000 erledigte Aufgaben";
+
+"You've completed 1000 tasks. Great!" = "Du hast 1000 Aufgaben erledigt. Großartig!";
+
+
+"First completed list" = "Erste abgeschlossene Liste";
+
+"You've completed your first list. Great!" = "Du hast deine erste Liste abgeschlossen. Großartig!";
+
+
+"10 completed lists" = "10 abgeschlossene Listen";
+
+"You've completed 10 lists. Great!" = "Du hast 10 Listenn abgeschlossen. Großartig!";
+
+
+"20 completed lists" = "20 abgeschlossene Listen";
+
+"You've completed 20 lists. Great!" = "Du hast 20 Listenn abgeschlossen. Großartig!";
+
+
+
+"30 completed lists" = "30 abgeschlossene Listen";
+
+"You've completed 30 lists. Great!" = "Du hast 30 Listenn abgeschlossen. Großartig!";
+
+
+
+"Perfect day" = "Perfekter Tag";
+
+"You've completed all your tasks yesterday. Great job!" = "Du hast gestern alle Aufgaben abgeschlossen. Gut gemacht!";
+
+
+"3 perfect days" = "3 perfekte Tage";
+
+"You've completed all tasks the last 3 days. Great!" = "Du hast 3 Tage lang alle Aufgaben abgeschlossen. Gut gemacht!";
+
+"Perfect week" = "Perfekte Woche";
+
+"You've completed all tasks every day the last week. Great job!" = "Du hast eine Woche lang alle Aufgaben abgeschlossen. Gut gemacht!";
+
+"Perfect month" = "Perfekter Monat";
+
+"You've completed all tasks every day the last month. Great job!" = "Du hast einen Monat lang alle Aufgaben abgeschlossen. Gut gemacht!";
+
+
+// Reward titles
+
+// Looks like copy paste, but it has to be this way :/
+"20 completed tasks" = "20 erledigte Aufgaben";
+
+"50 completed tasks" = "50 erledigte Aufgaben";
+
+"100 completed tasks" = "100 erledigte Aufgaben";
+
+"250 completed tasks" = "250 erledigte Aufgaben";
+
+"500 completed tasks" = "500 erledigte Aufgaben";
+
+"750 completed tasks" = "750 erledigte Aufgaben";
+
+"1000 completed tasks" = "1000 erledigte Aufgaben";
+
+
+"1 day planned" = "Ein Tag geplant";
+
+"5 days planned" = "5 Tage geplant";
+
+"10 days planned" = "10 Tage geplant";
+
+"25 days planned" = "25 Tage geplant";
+
+"50 days planned" = "50 Tage geplant";
+
+"75 days planned" = "75 Tage geplant";
+
+"100 days planned" = "100 Tage geplant";
+
+"One perfect day" = "Ein perfekter Tag";
+
+"3 perfect days" = "3 perfekte Tage";
+
+"Perfect week" = "Perfekte Woche";
+
+"Perfect month" = "Perfekter Monat";
+
+"Completed first list" = "Erste Liste abgeschlossen";
+
+"Completed 10 lists" = "10 Listen abgeschlossen";
+
+"Completed 20 lists" = "20 Listen abgeschlossen";
+
+"Completed 30 lists" = "30 Listen abgeschlossen";
+
+"New list" = "Neue Liste";
+
+"New tag" = "Neues Schlagwort";
+
+"Select calendars" = "Kalender auswählen";
+
+"Dark appearance" = "Dunkles Erscheinungsbild";
+
+"Complete list" = "Liste absolvieren";
+
+"Task" = "Aufgabe";
+
+"Support developer" = "Unterstütze Entwicklung";
+
+"Delete everything, everywhere" = "Alles überall löschen";
+
+"This will delete all your data from iCloud and all of your devices." = "Dies wird alle Daten in der iCloud, auf dem derzeitigen Gerät und auf allen verbundenen Geräten löschen.";
+
+"Download all your data saved in iCloud as a text file which can then be saved. This might take some time." = "Erhalte einen Auszug aller gespeicherten Daten. Dies kann einige Zeit dauern.";
+
+"Export all your compatible data to Reminders." = "Exportiere alle kompatiblen Daten in die Erinnerungen-App";
+
+"If activated, Planny stores your tasks data in the iCloud for sync and backup. Nobody besides you can read your data.  By using the Cloud sync you accept the terms and privacy policy" = "Wenn der Cloud Sync aktiviert ist, speichert Planny deine Aufgaben-Daten zur Synchronisierung in der iCloud. Niemand außer Dir kann deine Daten sehen.
+
+Bei Aktivierung der Synchronisierung akzeptierst du die Bedingungen und Privacy Policy";
+
+
+"Import reminders" = "Erinnerungen importieren";
+
+"Export" = "Exportiere";
+
+"Delete iCloud data" = "iCloud-Daten löschen";
+
+"Download iCloud data" = "Auszug der iCloud-Daten erhalten";
+
+"Export to reminders" = "Zu Erinnerungen exportieren";
+
+"Info" = "Information";
+
+"On arrival" = "Bei Ankunft";
+
+"On leave" = "Bei Verlassen";
+
+"Pseudonym" = "Pseudonym";
+
+"Pseudonym (Ranking)" = "Pseudonym (Ranking)";
+
+"Documentation" = "Dokumentation";
+
+"Arrived at location" = "Ankunft an Ort";
+
+"Location" = "Ort";
+
+"Location left" = "Ort verlassen";
+
+"Recents" = "Kürzlich";
+
+"Important" = "Wichtig";
+
+"Purchased" = "Gekauft";
+
+"Activated (requires in ap purchase)" = "Aktiviert (benötigt In-App-Kauf)";
+
+"Free Planny Pro Upgrade" = "Kostenloses Planny Pro Upgrade";
+
+
+"Collaboration" = "Zusammenarbeit";
+
+"No name" = "Kein Name";
+
+"Create" = "Erstellen";
+
+"Search for routine" = "Nach Routine suchen";
+
+"Not available" = "Nicht verfügbar";
+
+"Biometric authentification is not available on your iOS device or is disabled." = "Biometrische Authentifizierung ist auf dem iOS Gerät nicht verfügbar oder ausgeschaltet";
+
+"FaceID / TouchID to open Planny" = "FaceID / TouchID benutzen, um Planny zu öffnen";
+
+"Tap to try again" = "Erneut versuchen";
+
+"No tasks or suggestions available right now. Come back tomorrow." = "Derzeit sind keine Aufgaben oder Vorschläge verfügbar.";
+
+"Did you already finish some tasks?" = "Hast du bereits einige Aufgaben erledigt?";
+
+"Just wanted to remind you to finish some tasks" = "Ich wollte dich nur an deine Aufgaben erinnern";
+
+"Don't forget your daily tasks." = "Vergiss nicht deine heutigen Aufgaben";
+
+"Finish all tasks to get many productivity points." = "Erledige alle Aufgaben, um Produktivitäts-Punkte zu erhalten";
+
+"Time" = "Uhrzeit";
+
+"Date" = "Datum";
+
+
+
+"Due today" = "Heute fällig";
+
+"One-off discount" = "Einmal-Rabatt";
+
+"Mail is not configured on your device" = "Mail ist auf diesem Gerät nicht konfiguriert";
+
+"No, thanks" = "Nein, danke";
+
+"Add a task" = "Aufgabe hinzufügen";
+
+"Sorry, but you can't assign this task before the current day has been added." = "Du kannst diese Aufgabe erst hinzufügen, wenn der heutige Tag erstellt wurde.";
+
+"iMsgManual" = "Schreib eine Aufgabe nieder und sende sie einem Freund. Dieser kann diese Aufgabe in der Nachrichten-App antippen und sie damit automatisch der Heute-Liste hinzufügen.";
+
+"You received a task. Tap to add this task to your today list." = "Du hast eine Aufgabe erhalten. Tippe, um sie der Heute-Liste hinzuzufügem.";
+
+"Counter" = "Countdown";
+
+"Repeat times" = "Wiederholungen";
+
+"Conditions" = "Bedingungen";
+
+"No tasks" = "Keine Aufgaben";
+
+"available" = "verfügbar";
+
+
+"left" = "übrig";
+
+"days left" = "Tage verbleibend";
+
+"One day left" = "Ein Tag verbleibend";
+
+"Due since" = "Fällig seit";
+
+"days" = "Tag(en)";
+
+"Title" = "Titel";
+
+"Goal" = "Ziel";
+
+"Color" = "Farbe";
+
+"Edit" = "Bearbeiten";
+
+"Type to add task" = "Tippen um Aufgabe hinzuzufügen";
+
+"Plan your day" = "Tag planen";
+
+"Plan day" = "Tag planen";
+
+"Planned" = "Geplant";
+
+"Due" = "Fällig";
+
+"Sorry" = "Sorry";
+
+"Efficiency / Reachability" = "Erreichbarkeit / Effizienz";
+
+"Due tasks" = "Fällige Aufgaben";
+
+"Yesterday's successes" = "Gestrige Erfolge";
+
+"Todo" = "Offen";
+
+"Done" = "Fertig";
+
+"Tap to add task" = "Tippen zum Hinzufügen";
+
+"Today" = "Heute";
+
+"Month" = "Monat";
+
+"Year" = "Jahr";
+
+"Add ons" = "Erweiterungen";
+
+"RESTORE PURCHASES" = "EINKÄUFE WIEDERHERSTELLEN";
+
+"Yesterday" = "Gestern";
+
+"Finished" = "Erledigt";
+
+"Sunday" = "Sonntag";
+
+"Monday" = "Montag";
+
+"Tuesday" = "Dienstag";
+
+"Wednesday" = "Mittwoch";
+
+"Thursday" = "Donnerstag";
+
+"Friday" = "Freitag";
+
+"Contact developer" = "Entwickler kontaktieren";
+
+"Saturday" = "Samstag";
+
+"Create list" = "Liste erstellen";
+
+"Add task" = "Aufgabe hinzufügen";
+
+"Not completed" = "Nicht abgeschlossen";
+
+"Days" = "Tage";
+
+"Up next" = "Geplant";
+
+"Action" = "Aktion";
+
+"Choose an action" = "Aktion wählen";
+
+"Finished" = "Erledigt";
+
+"What would you like to do?" = "Was möchtest du tun?";
+
+"Rename / Schedule" = "Umbenennen / Umplanen";
+
+"Archive" = "Archivieren";
+
+"Delete" = "Löschen";
+
+"Cancel" = "Abbrechen";
+
+"Delete list" = "Liste löschen";
+
+
+"Are you sure? You'll lose" = "Bist du sicher? Du verlierst alle Statistiken und Aufgaben zu dieser Liste";
+
+"What would you like to do?" = "Was möchtest du tun?";
+
+"EDIT" = "BEARBEITEN";
+
+"Suggestion" = "Vorschlag";
+
+"Daily" = "Täglich";
+
+"Daily suggestions" = "Tägliche Vorschläge";
+
+"From yesterday" = "Übrig von gestern";
+
+"Type in address" = "Adresse eingeben";
+
+"Notes" = "Notizen";
+
+"Tap to add annotation" = "Tippen zum Hinzufügen";
+
+"Your advantages" = "Deine Vorteile";
+
+"Location reminder" = "Ortserinnerung";
+
+"Tomorrow" = "Morgen";
+
+"Menu" = "Menü";
+
+"Accept" = "Akzeptieren";
+
+"ArchiveInfoText" = "Die Liste wird nur noch über die Suche zu finden sein.";
+
+"Settings" = "Einstellungen";
+
+"Set deadline" = "Deadline setzen";
+
+"Activating Cloud Sync. Please don't close the app" = "Cloud-Sync wird aktiviert. Bitte die App nicht beenden.";
+
+"Deadline" = "Deadline";
+
+"Set color" = "Farbe auswählen";
+
+"Annotations" = "Anmerkungen";
+
+"Add" = "Hinzufügen";
+
+"Routines" = "Routinen";
+
+"Mo" = "Mo";
+
+"Tu" = "Di";
+
+"We" = "Mi";
+
+"Th" = "Do";
+
+"Fr" = "Fr";
+
+"Sa" = "Sa";
+
+"Su" = "So";
+
+
+
+"Create routine" = "Routine erstellen";
+
+"Edit routine" = "Routine bearbeiten";
+
+"Download Planny and try to be more productive than me :)" = "Lade Planny herunter und versuche, produktiver als ich zu sein.";
+
+"Productivity" = "Produktivität";
+
+"Synced changes: " = "Synchronisierte Änderungen: ";
+
+"Preparing sync" = "Sync wird vorbereitet";
+
+
+"reminderText" = "Häufigkeit der Erinnerungen";
+
+"Welcome" = "Willkommen";
+
+"welcomeText" = "Willkommen bei Planny";
+
+"Delete tag" = "Tag löschen";
+
+"Overdue" = "Überfällig";
+
+"Mark done tasks" = "Erledigte abhaken";
+
+"tasks on your list" = "Aufgaben sind noch zu erledigen";
+
+"3D-Touch to show tasks" = "3D-Touch um Aufgaben anzuzeigen";
+
+"DoneN" = "Erledigt";
+
+"Remind in 15 minutes" = "Erinnern in 15 Minuten";
+
+"Remind in one hour" = "Erinnern in einer Stunde";
+
+"Due task: " = "Fällige Aufgabe: ";
+
+"Due time" = "Fälligkeit";
+
+"Already finished some tasks?" = "Hast du bereits etwas erledigt?";
+
+"At the moment" = "Aktuell";
+
+"Recent days" = "Vergangene Tage";
+
+"minutes left" = "Minuten verbleibend";
+
+"hours left" = "Stunden verbleibend";
+
+
+"Goal achieved" = "Tagesziel erreicht";
+
+"Not reached" = "Nicht abgeschlossen";
+
+
+"Clean up" = "Aufräumen";
+
+"Use Planny" = "Planny benutzen";
+
+"Work out" = "Sport betreiben";
+
+"Write research paper" = "Hausarbeit schreiben";
+
+"Go shopping" = "Einkaufen";
+
+"Refuel car" = "Auto tanken";
+
+"Drink 2 liters of water" = "2 Liter Wasser trinken";
+
+"Calendar" = "Kalender";
+
+
+"Important" = "Wichtig";
+
+"Tap to plan your first day" = "Tippen um deinen ersten Tag zu planen";
+
+"I wait" = "Ich werde warten";
+
+"ActivationSuccess" = "Cloud Sync ist jetzt aktiv";
+
+"Success" = "Erfolg";
+
+
+"ActivateWatchMsg" = "Wenn Planny Pro aktiv ist, wird jetzt der Cloud-Sync aktiviert. Dies kann auf der Apple Watch einige Zeit dauern. Bitte warten.";
+
+"Network unavailable" = "Netzwerk nicht verfügbar";
+ 
+"iCloud unavailable" = "iCloud nicht verfügbar";
+
+
+"Quota exceeded" = "iCloud Speicher voll";
+
+"Network failure" = "Netzwerk fehlerhaft";
+
+"Something went wrong" = "Etwas ist schief gelaufen";
+
+"Requires Planny Pro" = "Benötigt Planny Pro";
+
+"Free limit exceeded" = "Limit überschritten";
+
+"Active" = "Aktiv";
+
+"Purchased" = "Erworben";
+
+"to unlock" = "zum Freischalten";
+
+"Add your first routine" = "Erstelle deine erste Routine";
+
+"Add day" = "Tag hinzufügen";
+
+"My first project" = "Mein erstes Projekt";
+
+"Complete first task" = "Erste Aufgabe absolvieren";
+
+"Please wait" = "Bitte warten";
+
+"One moment ..." = "Einen Moment ...";
+
+"Use calendar" = "Kalender nutzen";
+
+"Privacy" = "Privatsphäre"; 
+
+"Requires in app purchase" = "Benötigt In-App-Kauf";
+
+"Monthly repeat day" = "Tag im Monat";
+
+"Tap to add your tasks for today" = "Tippen zum Auswählen der Aufgaben";
+
+"Anytime" = "Irgendwann";
+
+"Points" = "Punkte";
+
+"Current points" = "Aktuelle Punkte";
+
+"Sync to iCloud requires Planny Pro" = "iCloud-Sync benötigt Planny Pro";
+
+"iCloud not available" = "iCloud not available";
+
+"No today list available yet" = "Bisher keine Heute-Liste erstellt";
+
+"Syncing ..." = "Synchronisiert ...";
+
+"Day review" = "Rückblick";
+
+"Pending planny points" = "Ausstehende Planny-Punkte";
+
+"continueToKarma" = "Plane den nächsten Tag, um deine Planny-Punkte zu erhalten.";
+
+"Planny points" = "Punkte";
+
+"Assign" = "Zuordnen";
+
+"Me" = "Ich";
+
+"This task was added to your daily list." = "Diese Aufgabe wurde der heutigen Liste hinzugefügt.";
+
+"Added" = "Hinzugefügt";
+
+"Select a list" = "Wähle eine Liste aus";
+
+"List" = "Liste";
+
+"Assign to day" = "Zu Tag zuordnen";
+
+"Shift due dates" = "Deadlines verschieben";
+
+"Edit" = "Bearbeiten";
+
+"Planned for today" = "Für heute vorgemerkt";
+
+"Do tomorrow" = "Morgen erledigen";
+
+"Move to future" = "An einem anderen Tag erledigen";
+
+"Location reminder" = "Ortserinnerung";
+
+"Tags" = "Schlagwörter";
+
+"Restore" = "Wiederherstellen";
+
+"College" = "Studium";
+
+"Shopping" = "Einkaufen";
+
+"Remove" = "Entfernen";
+
+"Routine" = "Routine";
+
+"Due date" = "Deadline";
+
+"Suggestion" = "Vorschlag";
