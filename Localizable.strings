@@ -6,1043 +6,1043 @@
  Copyright © 2017 Kevin Reutter. All rights reserved.
  */
 
-" / Year" = " / Jahr";
-" / 3 Months" = " / 3 Monate";
+" / Year" = " / 年";
+" / 3 Months" = " / 3 个月";
 
-"1 Year" = "Ein Jahr";
-"3 Months" = "3 Monate";
+"1 Year" = "1 年";
+"3 Months" = "3 个月";
 
-"Weekly trial" = "Wöchentliche Testphase";
+"Weekly trial" = "试用一周";
 
-"Task planned" = "Aufgabe geplant";
-"Task completed" = "Aufgabe abgeschlossen";
-"Task delayed" = "Aufgabe verschoben";
-"Task removed" = "Aufgabe entfernt";
-"Task not completed" = "Aufgabe nicht erledigt";
+"Task planned" = "已计划的任务";
+"Task completed" = "已完成的任务";
+"Task delayed" = "延后的任务";
+"Task removed" = "移除的任务";
+"Task not completed" = "未完成的任务";
 
-"You earn points for planning and completing tasks. If you delay your tasks you'll lose points. Every new day you'll get an overview and your daily points are updated. Add friends to compare your productivity over the week." = "Du erhältst Punkte für das Planen und Erledigen von Aufgaben. Wenn du Aufgaben verschiebst, verlierst du Punkte. Jeden Tag erhältst du eine Übersicht und deine Punkte werden aktualisiert. Füge Freunde hinzu und vergleiche die Produktivität über die Woche.";
+"You earn points for planning and completing tasks. If you delay your tasks you'll lose points. Every new day you'll get an overview and your daily points are updated. Add friends to compare your productivity over the week." = "你可以通过计划和完成任务获得积分。 如果任务拖延，你将失去积分。 每天你都会收到一份当日回顾，同时你的积分会相应更新。 添加朋友来比较一周内你的工作效率.";
 
-"Your earned points: " = "Deine verdienten Punkte: ";
+"Your earned points: " = "你获得的积分: ";
 
-"Shift" = "Verschieben";
+"Shift" = "转移";
 
-"Restore purchases" = "Einkäufe wiederherstellen";
+"Restore purchases" = "恢复购买";
 
-"Push required" = "Benachrichtigungen benötigt";
+"Push required" = "需要推送";
 
-"Go to your system settings and enable push notifications for Planny" = "Geh in die Systemeinstellungen und aktiviere Push-Benachrichtigungen für Planny";
+"Go to your system settings and enable push notifications for Planny" = "转到系统设置并启用Planny的推送通知";
 
-"End of day" = "Ende des Tages";
+"End of day" = "一天的结束";
 
-"Gamification / Review" = "Gamification / Rückblick";
+"Gamification / Review" = "游戏化 / 评分";
 
-"Tap here to see some recommendations" = "Tippe hier, um deine Vorschläge anzuzeigen";
+"Tap here to see some recommendations" = "点按此处查看一些建议";
 
-"Tap to plan the next day" = "Tippe hier, um den nächsten Tag zu planen";
+"Tap to plan the next day" = "点按即可计划第二天";
 
-"Planny Teamwork List" = "Planny Teamwork Liste";
+"Planny Teamwork List" = "Planny Teamwork 列表";
 
-"Click a task to get more actions like completing, settings deadlines, adding notes and more 👆🏼" = "Klicke auf eine Aufgabe um Optionen wie Erledigen, Setzen einer Deadline, Notizen oder weiteren zu erreichen 👆🏼";
+"Click a task to get more actions like completing, settings deadlines, adding notes and more 👆🏼" = "单击任务可获得更多操作，如完成，设置截止日期，添加注释等 👆🏼";
 
-"During the day and if you tend to forget your tasks, you get intelligent reminders" = "Während des Tages erhältst du intelligente Erinnerungen, sofern du dazu neigst, deine Aufgaben zu vergessen 💡";
+"During the day and if you tend to forget your tasks, you get intelligent reminders" = "在一天中，如果你比较容易忘记任务，你将会获得智能提醒 💡";
 
-"Just select tasks you want to work on today by clicking 😊" = "Wähle durch Klicken die Aufgaben aus, an denen du arbeiten möchtest 😊";
+"Just select tasks you want to work on today by clicking 😊" = "通过点击来选出你计划今天完成的任务 😊";
 
-"You only see people that have access to the list and are in your iCloud contacts" = "Du siehst nur Kontakte, die Zugriff zu der Liste haben und in deinen iCloud Kontakten verfügbar sind";
-
-
-"Assign to" = "Jemandem zuordnen";
-
-"Completed task" = "Abgeschlossene Aufgabe";
-
-"Updated task" = "Geänderte Aufgabe";
-
-"Added task" = "Hinzugefügte Aufgabe";
-
-"Added note" = "Hinzugefügte Notiz";
-
-"I don't have any recommendations yet. Create some lists first ☺️" = "Ich habe noch keine Vorschläge für Dich. Erstelle zuerst einige Listen ☺️";
-
-"Search for lists" = "Listen durchsuchen";
-
-"End teamwork" = "Teamwork beenden";
-
-"You're not longer a member of this list. It was removed." = "Du bist nicht länger Teil dieser Liste. Sie wurde entfernt.";
-
-"subscriptionInfo" = "Eine Planny Teamwork Mitgliedschaft bietet dir alle Vorteile von Planny Teamwork. Beachte, dass ein iCloud-Account benötigt wird. Planny bietet zwei Abonnements an. Einkäufe werden zwischen iOS und macOS synchronisiert.
-
-Planny Teamwork 3 Monate
-€3,49 / Monat (abweichend je nach Land & Währung)
-
-Planny Teamwork 1 Jahr
-€9,99 / Jahr (abweichend je nach Land & Währung)
-
-Jedes Abo verlängert sich automatisch, wenn Du nicht bis spätestens 24 Stunden vor Ablauf der jeweils aktuellen Buchungsperiode kündigst.   Bei der Verlängerung deines Abos wird dein iTunes-Account automatisch mit demselben Betrag belastet, wie bei der ersten Buchung, falls du nicht mindestens 24 Stunden vor Ablauf der aktuellen Laufzeit deine Abo-Einstellungen in Deinem iTunes-Account änderst.
-
-Abos können von dem Nutzer in den Account Einstllungen verwaltet oder ausgeschaltet. werden
- 
-Im Falle einer Kündigung läuft dein Zugang zu den Features zum Ende der Laufzeit deines Abos ab.";
+"You only see people that have access to the list and are in your iCloud contacts" = "你只能看到有权访问该列表且在你的iCloud联系人中的人";
 
 
-"You can share your points, a name and a picture with your iCloud contacts. These images are also shown in shared lists." = "Du kannst ein Pseudonym, ein Bild und deine Punkte mit deinen iCloud Kontakten teilen. Diese Aufgaben erscheinen auch in geteilten Listen.";
+"Assign to" = "分配到";
+
+"Completed task" = "已完成的任务";
+
+"Updated task" = "已更新的任务";
+
+"Added task" = "已添加的任务";
+
+"Added note" = "已添加的注释";
+
+"I don't have any recommendations yet. Create some lists first ☺️" = "我没有任何建议。 先创建一些列表吧 ☺️";
+
+"Search for lists" = "查找列表";
+
+"End teamwork" = "结束Teamwork";
+
+"You're not longer a member of this list. It was removed." = "您不再是此列表的成员。 它被删除了。";
+
+"subscriptionInfo" = "Planny Teamwork会员资格为您提供Planny Teamwork的所有好处。 请注意，需要iCloud帐户。 Planny提供两种订阅。 购买在iOS和macOS之间同步.
+
+Planny Teamwork 3个月
+€3.49 /月（取决于国家和货币）
+
+Planny团队合作1年
+€9,99 /年（根据国家和货币而异）
+
+如果您未在当前预订期结束前24小时取消，则会自动续订每个订阅。 如果您续订订阅，如果您未在当前学期结束前至少24小时将订阅设置更改为iTunes帐户，则您的iTunes帐户将自动收取与第一次预订相同的金额。
+
+用户可以在帐户设置中管理或禁用订阅。将
+
+如果终止，您对这些功能的访问权限将在订阅期限结束时到期。.";
+
+
+"You can share your points, a name and a picture with your iCloud contacts. These images are also shown in shared lists." = "您可以与iCloud联系人分享您的积分，姓名和图片。这些图像也显示在共享列表中。";
 
 // old
-"Downloading" = "Herunterladen";
+"Downloading" = "下载中";
 
-"Don't close the app while downloading your data. Depending on your network and the amount of data it might take some time." = "Schließe nicht die App während bisherige Daten heruntergeladen werden. Je nach Netzwerk und Menge der Daten kann dies einige Zeit in Anspruch nehmen";
+"Don't close the app while downloading your data. Depending on your network and the amount of data it might take some time." = "下载数据时请勿关闭应用程序。根据您的网络和数据量，可能需要一些时间。";
 
-"Please activate iCloud sync inside the Planny settings to share lists" = "Bitte aktiviere den iCloud Sync in den Planny Einstellungen um Listen zu teilen";
+"Please activate iCloud sync inside the Planny settings to share lists" = "请在Planny设置中激活iCloud同步以共享列表";
 
-"You've completed all your tasks" = "Du hast alle Aufgaben erledigt";
+"You've completed all your tasks" = "你已经完成了所有的任务";
 
-"Hey. It's time to plan your day" = "Hey. Es ist Zeit, deinen Tag zu planen";
+"Hey. It's time to plan your day" = "嘿。是时候计划你的一天了";
 
-"No calendars available or deactivated in iOS privacy settings" = "Keine Kalender verfügbar oder in den iOS Privatsphäreeinstellungen deaktiviert";
+"No calendars available or deactivated in iOS privacy settings" = "iOS隐私设置中没有可用的日历或已停用日历";
 
-"More" = "Mehr";
+"More" = "更多";
 
-"These events are on your calendar. Maybe you'd like to add some as tasks? 🤔" = "Diese Ereignisse sind in deinem Kalender. Vielleicht möchtest du eins als Aufgabe hinzufügen? 🤔";
+"These events are on your calendar. Maybe you'd like to add some as tasks? 🤔" = "这些活动在您的日历上。也许你想添加一些作为任务？ 🤔";
 
 
 // OLD 2.0
 
-"Tutorial" = "Erste Schritte";
+"Tutorial" = "教程";
 
-"Couldn't accept share. This might be the case if you're not invited or you are the owner of the shared data." = "Einladung konnte nicht akzeptiert werden. Dies ist der Fall, wenn du nicht eingeladen bist oder der Besitzer der Liste bist";
+"Couldn't accept share. This might be the case if you're not invited or you are the owner of the shared data." = "无法接受分享。您未被邀请或您是共享数据的所有者。";
 
-"Share failed" = "Teilen fehlgeschlagen";
+"Share failed" = "分享失败";
 
-"Couldn't share list. Please try again later. If share still doesn't work choose another list." = "Liste konnte nicht geteilt werden. Bitte später erneut probieren. Wenn es weiterhin nicht funktioniert, eine andere Liste auswählen.";
+"Couldn't share list. Please try again later. If share still doesn't work choose another list." = "无法共享列表。请稍后再试。如果共享仍然无效，请选择其他列表。";
 
-"This task is already assigned to someone" = "Diese Aufgabe erledigt bereits jemand";
+"This task is already assigned to someone" = "此任务已分配给某人";
 
 //Tutorial
-"You have access to the shared list and can complete the tasks" = "Du hast nun Zugriff auf die Liste und kannst die Aufgaben erledigen";
+"You have access to the shared list and can complete the tasks" = "您可以访问共享列表并完成任务";
 
-"Skip" = "Überspringen";
+"Skip" = "跳过";
 
-"By using the app you accept the privacy policy and conditions available on" = "Mit Nutzung der App wird die Privacy Policy akzeptiert, zu finden unter: ";
-
-
-"Hi, my name is Planny and I'm going to help you complete all your daily tasks and improve your productivity" = "Hi, ich bin Planny und ich helfe dir, alle deine Aufgaben zu erledigen und deine Produktivität zu steigern";
-
-"Every day starts by planning your day" = "Jeder Tag beginnt damit, ihn zu planen";
+"By using the app you accept the privacy policy and conditions available on" = "使用该应用程序即表示您接受可用的隐私政策和条件";
 
 
-"You get a recommended lists of tasks you can do today. They include tasks from your lists, already planned tasks, routines or tasks you didn't complete yesterday" = "Jeden Tag erhältst du eine Liste mit Vorschlägen. Diese Vorschläge basieren auf deinen Listen, Routinen, geplanten Aufgaben, Aufgaben, die gestern nicht erledigt wurden, ...";
+"Hi, my name is Planny and I'm going to help you complete all your daily tasks and improve your productivity" = "嗨，我的名字是Planny，我将帮助您完成所有日常任务并提高您的工作效率";
 
-"Just select tasks you want to work on today by tapping 😊" = "Wähle einfach die Aufgaben aus, an denen du arbeiten möchtest und starte in deinen Tag 😊";
-
-"Then you get to your daily list. It shows all the tasks to work on today" = "Deine tägliche Liste zeigt alle Aufgaben für den heutigen Tag an";
-
-"Swipe from the right to the left to mark a task as completed, delete or edit 👉🏼" = "Wische von rechts nach links, um eine Aufgabe zu erledigen 👉🏼";
-
-"Tap a task to get more actions like settings deadlines, adding notes and more 👆🏼" = "Tippe eine Aufgabe an, um weitere Optionen zu erhalten 👆🏼";
+"Every day starts by planning your day" = "每天从计划您的一天开始";
 
 
-"If available, 3D-Touch a task to see available notes" = "Wenn verfügbar, nutze 3D-Touch auf einer Aufgabe, um die verfügbaren Notizen zu sehen";
+"You get a recommended lists of tasks you can do today. They include tasks from your lists, already planned tasks, routines or tasks you didn't complete yesterday" = "您将获得今天可以执行的推荐任务列表。它们包括列表中的任务，已计划的任务，例程或昨天未完成的任务";
 
-"You can disable them in the settings" = "Du kannst diese bei Bedarf in den Einstellungen deaktivieren";
+"Just select tasks you want to work on today by tapping 😊" = "只需点击select即可选择您今天要处理的任务 😊";
 
+"Then you get to your daily list. It shows all the tasks to work on today" = "然后，您将进入每日列表。它显示了今天要处理的所有任务";
 
-"You can also add the Planny widget to your homescreen and mark tasks as completed by tapping" = "Du kannst auch das Widget auf dem Homescreen hinzufügen, um Aufgaben von dort aus zu erledigen";
+"Swipe from the right to the left to mark a task as completed, delete or edit 👉🏼" = "从右向左滑动以将任务标记为已完成，删除或编辑 👉🏼";
 
-"To help you improve your productivity there are some great features 😊" = "Um deine Produktivität zu verbessern, gibt es einige Gimmicks 😊";
-
-"After each day you get a review of your last day ⭐️" = "Nach jedem Tag erhältst du eine Bewertung des vorherigen Tages ⭐️";
-
-"Complete as many tasks as possible and collect points for your productivity" = "Erledige so viele Aufgaben wie möglich und erhalte Punkte für deine Produktivität";
-
-"Compare your weekly producitivty with all of your friends" = "Vergleiche deine wöchentliche Produktivität mit deinen Freunden";
-
-"You will also receive rewards for being productive" = "Mit der Zeit wirst du dann Auszeichnungen für deine Produktivität erhalten";
-
-"Planny is free, but with limits 😊" = "Planny ist kostenlos, aber mit Limits 😊";
-
-"With Planny Pro you get features like sync, location based reminders, the forecast for viewing upcoming tasks and more 🎉" = "Mit Planny Pro schaltest du weitere Funktionen wie den Sync, ortsbasierte Erinnerungen und den Ausblick für anstehende Aufgaben sowie weitere Funktionen frei 🎉";
+"Tap a task to get more actions like settings deadlines, adding notes and more 👆🏼" = "点按任务可获得更多操作，例如设置截止日期，添加备注等 👆🏼";
 
 
-"With Planny Teamwork you can also invite your friends to a list and work together" = "Mit Planny Teamwork kannst du Listen mit deinen Kontakten teilen und zusammen arbeiten";
+"If available, 3D-Touch a task to see available notes" = "如果可用，请使用3D-Touch任务查看可用备注";
 
-"These purchases are one time and available on all your devices" = "Diese Käufe sind einmalig und auf allen Geräten verfügbar";
-
-"That's everything that's important. The best way to learn is to try it out" = "Das war das Wichtigste. Der beste Weg sich zurechtzufinden, ist die App einfach auszuprobieren";
-
-"If there are any issues or questions contact me before despairing or getting angry 😊" = "Wenn es Probleme oder Fragen gibt, kontaktiere mich, bevor du verzweifelst oder dich aufregst 😊";
+"You can disable them in the settings" = "您可以在设置中禁用它们";
 
 
-"Select list" = "Liste auswählen";
+"You can also add the Planny widget to your homescreen and mark tasks as completed by tapping" = "您还可以将Planny小部件添加到主屏幕，并通过点击将任务标记为已完成";
 
-"These are your completed tasks" = "Dies sind deine erledigten Aufgaben";
+"To help you improve your productivity there are some great features 😊" = "为了帮助您提高工作效率，有一些很棒的功能 😊";
 
-"Work together" = "Arbeitet zusammen";
-"Unlock all features" = "Schalte alles frei";
+"After each day you get a review of your last day ⭐️" = "每天过后，您都会收到最后一天的评论 ⭐️";
 
-"You didn't complete any tasks" = "Du hast keine Aufgaben erledigt";
+"Complete as many tasks as possible and collect points for your productivity" = "完成尽可能多的任务并为您的工作效率收集积分";
 
-"You've completed all of your tasks. Tap the button on the top to show them" = "Du hast all deine Aufgaben erledigt. Tippe den Button oben an, um sie anzuzeigen";
+"Compare your weekly producitivty with all of your friends" = "将您的每周生产力与所有朋友进行比较";
 
-"These tasks weren't completed" = "Diese Aufgaben wurden nicht erledigt";
+"You will also receive rewards for being productive" = "您还将获得高效率的奖励";
 
-"Already work in progress" = "Bereits in Arbeit";
+"Planny is free, but with limits 😊" = "Planny是免费的，但有限制 😊";
 
-"This task is already assigned to " = "Diese Aufgabe erledigt bereits ";
-
-"Work on" = "Mir zuordnen";
-
-"Support / Developer" = "Support / Entwickler";
-
-"Today" = "Heute";
-
-"Show me my important list" = "Zeige mir meine wichtige Liste";
-
-"Show today's tasks" = "Zeige die heutigen Aufgaben";
-
-"Show all the tasks that are due today" = "Zeige alle Aufgaben, die heute erledigt werden müssen";
-
-"Show all upcoming tasks" = "Zeige alle anstehenden Aufgaben";
-
-"Show all the tasks that are upcoming" = "Zeige alle Aufgaben, die bald anstehen";
-
-"Stop work on" = "Arbeit beenden";
-
-"Unlock Pro features" = "Hol dir mehr";
-
-"Unlock Teamwork" = "Hol dir mehr";
-
-"Search results" = "Suchergebnisse";
-
-"ProFeatures" = "Ausblick (Geplante Aufgaben)
- Ortsabhängige Erinnerungen
- Mehr als 4 Listen
- Notizen mit Fotos
- iCloud Sync
- iCloud Backup
- Vergangene Tage
-
-Schlagwörter
-
-Unterstützen der Entwicklung";
-
-"TeamworkFeatures" = "Teile Listen und deren Aufgaben mit Freunden und Kollegen  Betrachte geteilte Listen von Anderen
-
-Sieh, wer welche Aufgaben erledigt  Teilt die Aufgaben unter euch auf  Erhalte Benachrichtigungen für Änderungen
-
- 
-Eine Planny Teamwork Mitgliedschaft bietet dir alle Vorteile von Planny Teamwork. Beachte, dass ein iCloud-Account benötigt wird. Planny bietet zwei Abonnements an. Einkäufe werden zwischen iOS und macOS synchronisiert.
-
-Planny Teamwork 3 Monate
-€4,99 / Monat (abweichend je nach Land & Währung)
-
-Planny Teamwork 1 Jahr
-€9,99 / Jahr (abweichend je nach Land & Währung)
-
-Jedes Abo verlängert sich automatisch, wenn Du nicht bis spätestens 24 Stunden vor Ablauf der jeweils aktuellen Buchungsperiode kündigst.   Bei der Verlängerung deines Abos wird dein iTunes-Account automatisch mit demselben Betrag belastet, wie bei der ersten Buchung, falls du nicht mindestens 24 Stunden vor Ablauf der aktuellen Laufzeit deine Abo-Einstellungen in Deinem iTunes-Account änderst.
-
-Abos können von dem Nutzer in den Account Einstllungen verwaltet oder ausgeschaltet. werden
- 
-Im Falle einer Kündigung läuft dein Zugang zu den Features zum Ende der Laufzeit deines Abos ab.
+"With Planny Pro you get features like sync, location based reminders, the forecast for viewing upcoming tasks and more 🎉" = "使用Planny Pro，您可以获得同步，基于位置的提醒，查看即将发布的任务的预测等功能 🎉";
 
 
-Privacy policy for Planny: http://kevinreutter.de/privacy
-Terms of use / Conditions: http://kevinreutter.de/privacy";
+"With Planny Teamwork you can also invite your friends to a list and work together" = "使用Planny Teamwork，您还可以邀请您的朋友加入列表并一起工作";
 
-"Activating sync" = "Sync aktivieren";
+"These purchases are one time and available on all your devices" = "这些购买是一次性的，可在您的所有设备上使用";
 
-"Don't close the app while activating and downloading existing data. Depending on your network and the amount of data it might take some time." = "Schließe nicht die App, während der Sync aktiviert und bisherige Daten heruntergeladen werden. Je nach Netzwerk und Menge der Daten kann dies einige Zeit in Anspruch nehmen.";
+"That's everything that's important. The best way to learn is to try it out" = "这一切都很重要。最好的学习方法是尝试一下";
+
+"If there are any issues or questions contact me before despairing or getting angry 😊" = "如果有任何问题或疑问，请在绝望或生气前与我联系 😊";
+
+
+"Select list" = "选择列表";
+
+"These are your completed tasks" = "这些是您完成的任务";
+
+"Work together" = "一起工作";
+"Unlock all features" = "解锁所有功能";
+
+"You didn't complete any tasks" = "你没有完成任何任务";
+
+"You've completed all of your tasks. Tap the button on the top to show them" = "您已完成所有任务。点击顶部的按钮以显示它们";
+
+"These tasks weren't completed" = "这些任务没有完成";
+
+"Already work in progress" = "已经在进行中";
+
+"This task is already assigned to " = "此任务已分配给 ";
+
+"Work on" = "从事于";
+
+"Support / Developer" = "支持/开发人员";
+
+"Today" = "今天";
+
+"Show me my important list" = "显示我的重要名单";
+
+"Show today's tasks" = "显示今天的任务";
+
+"Show all the tasks that are due today" = "显示今天到期的所有任务";
+
+"Show all upcoming tasks" = "显示所有即将到来的任务";
+
+"Show all the tasks that are upcoming" = "显示所有即将到来的任务";
+
+"Stop work on" = "停止工作";
+
+"Unlock Pro features" = "解锁Pro功能";
+
+"Unlock Teamwork" = "解锁团队合作";
+
+"Search results" = "搜索结果";
+
+"ProFeatures" = "Outlook（计划任务）
+依赖于位置的记忆
+超过4个列表
+用照片做笔记
+iCloud Sync
+iCloud备份
+过去的日子
+
+关键词
+
+支持发展";
+
+"TeamworkFeatures" = "与朋友和同事共享列表及其任务。查看其他人的共享列表
+
+查看谁执行了哪些任务。在您之间拆分任务。获取更改通知
+
+
+Planny Teamwork会员资格为您提供Planny Teamwork的所有好处。请注意，需要iCloud帐户。 Planny提供两种订阅。购买在iOS和macOS之间同步。
+
+Planny Teamwork 3个月
+€4,99 /月（根据国家和货币而定）
+
+Planny团队合作1年
+€9,99 /年（根据国家和货币而异）
+
+如果您未在当前预订期结束前24小时取消，则会自动续订每个订阅。如果您续订订阅，如果您未在当前学期结束前至少24小时将订阅设置更改为iTunes帐户，则您的iTunes帐户将自动收取与第一次预订相同的金额。
+
+用户可以在帐户设置中管理或禁用订阅。将
+
+如果终止，您对这些功能的访问权限将在订阅期限结束时到期。
+
+
+Planny的隐私政策: http://kevinreutter.de/privacy
+使用条款/条件: http://kevinreutter.de/privacy";
+
+"Activating sync" = "激活同步";
+
+"Don't close the app while activating and downloading existing data. Depending on your network and the amount of data it might take some time." = "在激活和下载现有数据时，请勿关闭应用程序。根据您的网络和数据量，可能需要一些时间。";
 
 "I don't have any suggestions at this time. Come back after adding some tasks 🙂"
-= "Ich habe zum aktuellen Zeitpunkt keine Aufgaben für Dich. Komm zurück, wenn du einige Listen oder Routinen angelegt hast 🙂";
+= "我现在没有任何建议。添加一些任务后回来 🙂";
 
-"Become Pro" = "Werde Pro-Mitglied";
+"Become Pro" = "成为Pro";
 
-"Continue to plan the day 😊" = "Plane jetzt deinen aktuellen Tag 😊";
+"Continue to plan the day 😊" = "继续计划一天 😊";
 
-"Continue" = "Weiter";
+"Continue" = "继续";
 
-"Review" = "Rückblick";
+"Review" = "评论";
 
-"You didn't complete many tasks yesterday. Try to do better today" = "Du hast nicht viele Aufgaben geschafft. Versuch heute besser zu sein";
+"You didn't complete many tasks yesterday. Try to do better today" = "你昨天没有完成很多任务。今天努力做得更好";
 
-"You've completed some of your tasks. Try to do better today 🙂" = "Du hast einige deiner Aufgaben erledigt. Versuch heute, mehr zu schaffen 🙂";
+"You've completed some of your tasks. Try to do better today 🙂" = "你已经完成了一些任务。今天努力做得更好 🙂";
 
-"You've completed more than half of your tasks. Great 😊" = "Du hast mehr als die Hälfte deiner Aufgaben erledigt. Großartig 😊";
+"You've completed more than half of your tasks. Great 😊" = "你完成了一半以上的任务。棒 😊";
 
-"You've completed many tasks. Great 😊" = "Du hast viele deiner gestrigen Aufgaben erledigt. Super! 🎉";
+"You've completed many tasks. Great 😊" = "你已经完成了很多任务。干得漂亮 🎉";
 
-"Yesterday was a great day! You've completed all of your tasks 🎉" = "Gestern war ein großartiger Tag. Du hast alle deine Aufgaben erledigt 🎉";
+"Yesterday was a great day! You've completed all of your tasks 🎉" = "昨天是美好的一天！您已完成所有任务 🎉";
 
-"Results" = "Ergebnisse";
+"Results" = "结果";
 
-" Points earned" = " Punkte erhalten";
+" Points earned" = " 赚取的积分";
 
-"Selected list" = "Ausgewählte Liste";
+"Selected list" = "选定的清单";
 
-"Rewards" = "Auszeichnungen";
+"Rewards" = "奖励";
 
-"For You" = "Für Dich";
+"For You" = "为你";
 
-"Achieved" = "Erreicht";
+"Achieved" = "实现";
 
-"Save" = "Sichern";
+"Save" = "保存";
 
-"Select calendars" = "Kalender auswählen";
+"Select calendars" = "选择日历";
 
-"Weekly ranking" = "Wöchentliches Ranking";
+"Weekly ranking" = "每周排名";
 
-"Assign to list" = "Zu Liste hinzufügen";
+"Assign to list" = "分配到列表";
 
-"Forecast" = "Ausblick";
+"Forecast" = "预测";
 
-"Close" = "Schließen";
-
-
-"Complete 20 tasks to get this reward" = "Erledige 20 Aufgaben um diese Auszeichnung zu erhalten";
-
-"Complete 50 tasks to get this reward" = "Erledige 50 Aufgaben um diese Auszeichnung zu erhalten";
-
-"Complete 100 tasks to get this reward" = "Erledige 100 Aufgaben um diese Auszeichnung zu erhalten";
-
-"Complete 250 tasks to get this reward" = "Erledige 250 Aufgaben um diese Auszeichnung zu erhalten";
-
-"Complete 500 tasks to get this reward" = "Erledige 500 Aufgaben um diese Auszeichnung zu erhalten";
-
-"Complete 750 tasks to get this reward" = "Erledige 750 Aufgaben um diese Auszeichnung zu erhalten";
+"Close" = "关闭";
 
 
-"Complete 1000 tasks to get this reward" = "Erledige 1000 Aufgaben um diese Auszeichnung zu erhalten";
+"Complete 20 tasks to get this reward" = "完成20项任务以获得此奖励";
 
-"Plan one day with Planny" = "Plane einen Tag mit Planny";
+"Complete 50 tasks to get this reward" = "完成50项任务以获得此奖励";
 
-"Plan 5 days with Planny" = "Plane 5 Tage mit Planny";
+"Complete 100 tasks to get this reward" = "完成100项任务以获得此奖励";
 
-"Plan 10 days with Planny" = "Plane 10 Tage mit Planny";
+"Complete 250 tasks to get this reward" = "完成250项任务以获得此奖励";
 
-"Plan 25 days with Planny" = "Plane 25 Tage mit Planny";
+"Complete 500 tasks to get this reward" = "完成500项任务以获得此奖励";
 
-"Plan 50 days with Planny" = "Plane 50 Tage mit Planny";
+"Complete 750 tasks to get this reward" = "完成750项任务以获得此奖励";
 
-"Plan 75 days with Planny" = "Plane 75 Tage mit Planny";
 
-"Plan 100 days with Planny" = "Plane 100 Tage mit Planny";
+"Complete 1000 tasks to get this reward" = "完成1000项任务以获得此奖励";
 
-"Complete all your tasks on one day" = "Erledige alle Aufgaben an einem Tag";
+"Plan one day with Planny" = "用Planny计划1天";
 
-"Complete all your tasks on 3 days in a row" = "Erledige 3 Tage in Folge alle Aufgaben";
+"Plan 5 days with Planny" = "用Planny计划5天";
 
-"Complete all your tasks on 7 days in a row" = "Erledige 7 Tage in Folge alle Aufgaben";
+"Plan 10 days with Planny" = "用Planny计划10天";
 
-"Complete all your tasks on 30 days in a row" = "Erledige 30 Tage in Folge alle Aufgaben";
+"Plan 25 days with Planny" = "用Planny计划25天";
 
-"Complete a full list of tasks and mark the list as completed" = "Erledige alle Aufgaben einer Liste und markiere sie als erledigt";
+"Plan 50 days with Planny" = "用Planny计划50天";
 
-"Complete 10 full lists of tasks and mark the lists as completed" = "Erledige alle Aufgaben von 10 Liste und markiere sie als erledigt";
+"Plan 75 days with Planny" = "用Planny计划75天";
 
-"Complete 20 full lists of tasks and mark the lists as completed" = "Erledige alle Aufgaben von 20 Liste und markiere sie als erledigt";
+"Plan 100 days with Planny" = "用Planny计划100天";
 
-"Complete 30 full lists of tasks and mark the lists as completed" = "Erledige alle Aufgaben von 30 Liste und markiere sie als erledigt";
+"Complete all your tasks on one day" = "在一天内完成所有任务";
+
+"Complete all your tasks on 3 days in a row" = "连续3天完成所有任务";
+
+"Complete all your tasks on 7 days in a row" = "连续7天完成所有任务";
+
+"Complete all your tasks on 30 days in a row" = "连续30天完成所有任务";
+
+"Complete a full list of tasks and mark the list as completed" = "完成完整的任务列表并将列表标记为已完成";
+
+"Complete 10 full lists of tasks and mark the lists as completed" = "完成10个完整的任务列表，并将列表标记为已完成";
+
+"Complete 20 full lists of tasks and mark the lists as completed" = "完成20个完整的任务列表，并将列表标记为已完成";
+
+"Complete 30 full lists of tasks and mark the lists as completed" = "完成30个完整的任务列表，并将列表标记为已完成";
 
 
 //
 
-"Hey. Not asleep yet? 🤔" = "Hey. Noch nicht am schlafen? 🤔";
+"Hey. Not asleep yet? 🤔" = "嘿。还没睡着呢？ 🤔";
 
-"Good morning! 🐔" = "Guten Morgen! 🐔";
+"Good morning! 🐔" = "早上好！ 🐔";
 
-"Welcome back 🙂" = "Willkommen zurück 🙂";
+"Welcome back 🙂" = "欢迎回来 🙂";
 
-"Hello 🙂" = "Hallo 🙂";
+"Hello 🙂" = "你好 🙂";
 
-"Good evening 🙂" = "Guten Abend 🙂";
+"Good evening 🙂" = "晚上好 🙂";
 
-"Hey 🙂" = "Hey 🙂";
+"Hey 🙂" = "嘿 🙂";
 
 // Suggestions
-"I have some recommended tasks for you. Select the ones you want to work on today" = "Ich habe einige Vorschläge für Dich. Wähle die Aufgaben aus, an denen du heute arbeiten möchtest";
+"I have some recommended tasks for you. Select the ones you want to work on today" = "我有一些推荐的任务给你。选择您今天要处理的那些";
 
-"You really have to do these tasks today 😲" = "Du musst diese Aufgaben wirklich heute erledigen! 😲";
+"You really have to do these tasks today 😲" = "你今天真的必须完成这些任务! 😲";
 
-"You didn't complete these yesterday" = "Diese hast du gestern nicht mehr geschafft";
+"You didn't complete these yesterday" = "你昨天没有完成这些";
 
-"I think you can do these tasks today" = "Ich denke mir, dass du diese Aufgaben gut machen könntest";
+"I think you can do these tasks today" = "我想你今天可以完成这些任务";
 
-"Just one day left 😨 You should do these today!" = "Noch ein Tag verbleibend! 😨 Du solltest diese unbedignt heute erledigen";
+"Just one day left 😨 You should do these today!" = "只剩一天了😨今天你应该做这些";
 
 // Placeholder is inserted
-"A small selection. You have " = "Eine kleine Auswahl für heute. Du hast noch ";
+"A small selection. You have " = "一个小的选择。你有 ";
 
-" days left" = " Tage übrig";
+" days left" = " 剩下的天数";
 
-"This list is overdue 😳" = "Diese Liste ist überfällig 😳";
+"This list is overdue 😳" = "这个清单已经过期了 😳";
 
 // List name is inserted
-"Here are tasks from your list " = "Hier sind einige Aufgaben von deiner Liste ";
+"Here are tasks from your list " = "这是您列表中的任务 ";
 
-"You already thought about doing these ... what about doing them today? 🤔" = "Du hast dir diese bereits notiert ... wie wär es, diese heute zu erledigen?";
+"You already thought about doing these ... what about doing them today? 🤔" = "你已经考虑过做这些......今天做它们怎么样？";
 
-"That's it" = "Das war alles";
+"That's it" = "就是这些";
 
-"Lists" = "Listen";
+"Lists" = "清单";
 
-"Open tasks" = "Offene Aufgaben";
+"Open tasks" = "打开任务";
 
-"Done tasks" = "Erledigte Aufgaben";
+"Done tasks" = "已完成任务";
 
-"Search for future tasks" = "Suche nach zukünftigen Aufgaben";
+"Search for future tasks" = "搜索未来的任务";
 
-"Do today" = "Heute erledigen";
+"Do today" = "今天做";
 
-"Make routine" = "Routine erstellen";
+"Make routine" = "制作例程";
 
-"Search for tasks" = "Suche nach Aufgaben";
+"Search for tasks" = "搜索任务";
 
-"Completed lists" = "Abgeschlossene Listen";
+"Completed lists" = "完成的清单";
 
-"Open lists" = "Offene Listen";
+"Open lists" = "打开清单";
 
-"These are your completed tasks" = "Dies sind deine erledigten Aufgaben";
+"These are your completed tasks" = "这些是您完成的任务";
 
-"Delete list" = "Liste löschen";
+"Delete list" = "删除列表";
 
 // REWARDS
 
-"New reward" = "Neue Auszeichnung";
+"New reward" = "新奖励";
 
-"One planned day" = "Ein Tag geplant";
+"One planned day" = "有计划的一天";
 
-"You've planned your first day with Planny. Amazing!" = "Du hast deinen ersten Tag mit Planny geplant. Großartig!";
+"You've planned your first day with Planny. Amazing!" = "你计划在Planny度过第一天。很棒！";
 
-"5 planned days" = "Fünf Tage geplant";
+"5 planned days" = "5个计划日";
 
-"You've planned 5 days with Planny. Amazing!" = "Du hast 5 Tage mit Planny geplant. Großartig!";
+"You've planned 5 days with Planny. Amazing!" = "用Planny计划了5天。很棒！";
 
-"10 planned days" = "10 Tage geplant";
+"10 planned days" = "10个计划日";
 
-"You've planned 10 days with Planny. Amazing!" = "Du hast 10 Tage mit Planny geplant. Großartig!";
-
-
-"25 planned days" = "25 Tage geplant";
-
-"You've planned 25 days with Planny. Amazing!" = "Du hast 25 Tage mit Planny geplant. Großartig!";
-
-"50 planned days" = "50 Tage geplant";
-
-"You've planned 50 days with Planny. Amazing!" = "Du hast 50 Tage mit Planny geplant. Großartig!";
-
-"75 planned days" = "75 Tage geplant";
-
-"You've planned 75 days with Planny. Amazing!" = "Du hast 75 Tage mit Planny geplant. Großartig!";
+"You've planned 10 days with Planny. Amazing!" = "用Planny计划了10天。很棒！";
 
 
-"100 planned days" = "100 Tage geplant";
+"25 planned days" = "25个计划日";
 
-"You've planned 100 days with Planny. Amazing!" = "Du hast 100 Tage mit Planny geplant. Großartig!";
+"You've planned 25 days with Planny. Amazing!" = "用Planny计划了25天。很棒！";
 
+"50 planned days" = "50个计划日";
 
+"You've planned 50 days with Planny. Amazing!" = "用Planny计划了50天。很棒！";
 
+"75 planned days" = "75个计划日";
 
-"20 completed tasks" = "20 erledigte Aufgaben";
-
-"You've completed 20 tasks. Great!" = "Du hast 20 Aufgaben erledigt. Großartig!";
-
-
-"50 completed tasks" = "50 erledigte Aufgaben";
-
-"You've completed 50 tasks. Great!" = "Du hast 50 Aufgaben erledigt. Großartig!";
+"You've planned 75 days with Planny. Amazing!" = "用Planny计划了75天。很棒！";
 
 
-"100 completed tasks" = "100 erledigte Aufgaben";
+"100 planned days" = "100个计划日";
 
-"You've completed 100 tasks. Great!" = "Du hast 100 Aufgaben erledigt. Großartig!";
-
-
-"250 completed tasks" = "250 erledigte Aufgaben";
-
-"You've completed 250 tasks. Great!" = "Du hast 250 Aufgaben erledigt. Großartig!";
+"You've planned 100 days with Planny. Amazing!" = "用Planny计划了100天。很棒！";
 
 
 
-"500 completed tasks" = "500 erledigte Aufgaben";
 
-"You've completed 500 tasks. Great!" = "Du hast 500 Aufgaben erledigt. Großartig!";
+"20 completed tasks" = "20 个完成的任务";
 
-
-"750 completed tasks" = "750 erledigte Aufgaben";
-
-"You've completed 750 tasks. Great!" = "Du hast 750 Aufgaben erledigt. Großartig!";
+"You've completed 20 tasks. Great!" = "你已经完成20 个任务。 很棒!";
 
 
-"1000 completed tasks" = "1000 erledigte Aufgaben";
+"50 completed tasks" = "50 个完成的任务";
 
-"You've completed 1000 tasks. Great!" = "Du hast 1000 Aufgaben erledigt. Großartig!";
-
-
-"First completed list" = "Erste abgeschlossene Liste";
-
-"You've completed your first list. Great!" = "Du hast deine erste Liste abgeschlossen. Großartig!";
+"You've completed 50 tasks. Great!" = "你已经完成50 个任务。 很棒!";
 
 
-"10 completed lists" = "10 abgeschlossene Listen";
+"100 completed tasks" = "100 个完成的任务";
 
-"You've completed 10 lists. Great!" = "Du hast 10 Listenn abgeschlossen. Großartig!";
+"You've completed 100 tasks. Great!" = "你已经完成100 个任务。 很棒!";
 
 
-"20 completed lists" = "20 abgeschlossene Listen";
+"250 completed tasks" = "250 个完成的任务";
 
-"You've completed 20 lists. Great!" = "Du hast 20 Listenn abgeschlossen. Großartig!";
+"You've completed 250 tasks. Great!" = "你已经完成250 个任务。 很棒!";
 
 
 
-"30 completed lists" = "30 abgeschlossene Listen";
+"500 completed tasks" = "500 个完成的任务";
 
-"You've completed 30 lists. Great!" = "Du hast 30 Listenn abgeschlossen. Großartig!";
+"You've completed 500 tasks. Great!" = "你已经完成500 个任务。 很棒!";
+
+
+"750 completed tasks" = "750 个完成的任务";
+
+"You've completed 750 tasks. Great!" = "你已经完成750 个任务。 很棒!";
+
+
+"1000 completed tasks" = "1000 个完成的任务";
+
+"You've completed 1000 tasks. Great!" = "你已经完成1000 个任务。 很棒!";
+
+
+"First completed list" = "第一个完成的清单";
+
+"You've completed your first list. Great!" = "你已经完成你的第一个清单. 很棒!";
+
+
+"10 completed lists" = "10 个已完成的清单";
+
+"You've completed 10 lists. Great!" = "你已经完成10个清单. 很棒!";
+
+
+"20 completed lists" = "20 个已完成的清单";
+
+"You've completed 20 lists. Great!" = "你已经完成20个清单. 很棒!";
+
+
+
+"30 completed lists" = "30 个已完成的清单";
+
+"You've completed 30 lists. Great!" = "你已经完成30个清单. 很棒!";
 
 
 
 "Perfect day" = "Perfekter Tag";
 
-"You've completed all your tasks yesterday. Great job!" = "Du hast gestern alle Aufgaben abgeschlossen. Gut gemacht!";
+"You've completed all your tasks yesterday. Great job!" = "你已经完成昨天的所有任务. 干得漂亮!";
 
 
-"3 perfect days" = "3 perfekte Tage";
+"3 perfect days" = "完美的3天";
 
-"You've completed all tasks the last 3 days. Great!" = "Du hast 3 Tage lang alle Aufgaben abgeschlossen. Gut gemacht!";
+"You've completed all tasks the last 3 days. Great!" = "你已经完成3天的所有任务. 很棒!";
 
-"Perfect week" = "Perfekte Woche";
+"Perfect week" = "完美的一周";
 
-"You've completed all tasks every day the last week. Great job!" = "Du hast eine Woche lang alle Aufgaben abgeschlossen. Gut gemacht!";
+"You've completed all tasks every day the last week. Great job!" = "你已经完成上周的所有任务。干得漂亮!";
 
-"Perfect month" = "Perfekter Monat";
+"Perfect month" = "完美的一个月";
 
-"You've completed all tasks every day the last month. Great job!" = "Du hast einen Monat lang alle Aufgaben abgeschlossen. Gut gemacht!";
+"You've completed all tasks every day the last month. Great job!" = "你已经完成上个月的所有任务.干得漂亮!";
 
 
 // Reward titles
 
 // Looks like copy paste, but it has to be this way :/
-"20 completed tasks" = "20 erledigte Aufgaben";
+"20 completed tasks" = "20 个完成的任务";
 
-"50 completed tasks" = "50 erledigte Aufgaben";
+"50 completed tasks" = "50 个完成的任务";
 
-"100 completed tasks" = "100 erledigte Aufgaben";
+"100 completed tasks" = "100 个完成的任务";
 
-"250 completed tasks" = "250 erledigte Aufgaben";
+"250 completed tasks" = "250 个完成的任务";
 
-"500 completed tasks" = "500 erledigte Aufgaben";
+"500 completed tasks" = "500 个完成的任务";
 
-"750 completed tasks" = "750 erledigte Aufgaben";
+"750 completed tasks" = "750 个完成的任务";
 
-"1000 completed tasks" = "1000 erledigte Aufgaben";
+"1000 completed tasks" = "1000 个完成的任务";
 
 
-"1 day planned" = "Ein Tag geplant";
+"1 day planned" = "1个计划日";
 
-"5 days planned" = "5 Tage geplant";
+"5 days planned" = "5个计划日";
 
-"10 days planned" = "10 Tage geplant";
+"10 days planned" = "10个计划日";
 
-"25 days planned" = "25 Tage geplant";
+"25 days planned" = "25个计划日";
 
-"50 days planned" = "50 Tage geplant";
+"50 days planned" = "50个计划日";
 
-"75 days planned" = "75 Tage geplant";
+"75 days planned" = "75个计划日";
 
-"100 days planned" = "100 Tage geplant";
+"100 days planned" = "100个计划日";
 
-"One perfect day" = "Ein perfekter Tag";
+"One perfect day" = "完美的1天";
 
-"3 perfect days" = "3 perfekte Tage";
+"3 perfect days" = "完美的3天";
 
-"Perfect week" = "Perfekte Woche";
+"Perfect week" = "完美的一周";
 
-"Perfect month" = "Perfekter Monat";
+"Perfect month" = "完美的一个月";
 
-"Completed first list" = "Erste Liste abgeschlossen";
+"Completed first list" = "完成了1个清单";
 
-"Completed 10 lists" = "10 Listen abgeschlossen";
+"Completed 10 lists" = "完成了10个清单";
 
-"Completed 20 lists" = "20 Listen abgeschlossen";
+"Completed 20 lists" = "完成了20个清单";
 
-"Completed 30 lists" = "30 Listen abgeschlossen";
+"Completed 30 lists" = "完成了30个清单";
 
-"New list" = "Neue Liste";
+"New list" = "新清单";
 
-"New tag" = "Neues Schlagwort";
+"New tag" = "新标签";
 
-"Select calendars" = "Kalender auswählen";
+"Select calendars" = "选择日历";
 
-"Dark appearance" = "Dunkles Erscheinungsbild";
+"Dark appearance" = "深色外观";
 
-"Complete list" = "Liste absolvieren";
+"Complete list" = "已完成的清单";
 
-"Task" = "Aufgabe";
+"Task" = "任务";
 
-"Support developer" = "Unterstütze Entwicklung";
+"Support developer" = "支持开发人员";
 
-"Delete everything, everywhere" = "Alles überall löschen";
+"Delete everything, everywhere" = "删除所有内容";
 
-"This will delete all your data from iCloud and all of your devices." = "Dies wird alle Daten in der iCloud, auf dem derzeitigen Gerät und auf allen verbundenen Geräten löschen.";
+"This will delete all your data from iCloud and all of your devices." = "这将从iCloud和您的所有设备中删除所有数据.";
 
-"Download all your data saved in iCloud as a text file which can then be saved. This might take some time." = "Erhalte einen Auszug aller gespeicherten Daten. Dies kann einige Zeit dauern.";
+"Download all your data saved in iCloud as a text file which can then be saved. This might take some time." = "将所有保存在iCloud中的数据作为文本文件下载，这可能需要一些时间.";
 
-"Export all your compatible data to Reminders." = "Exportiere alle kompatiblen Daten in die Erinnerungen-App";
+"Export all your compatible data to Reminders." = "将所有兼容数据导出到Reminder";
 
-"If activated, Planny stores your tasks data in the iCloud for sync and backup. Nobody besides you can read your data.  By using the Cloud sync you accept the terms and privacy policy" = "Wenn der Cloud Sync aktiviert ist, speichert Planny deine Aufgaben-Daten zur Synchronisierung in der iCloud. Niemand außer Dir kann deine Daten sehen.
+"If activated, Planny stores your tasks data in the iCloud for sync and backup. Nobody besides you can read your data.  By using the Cloud sync you accept the terms and privacy policy" = "如果启用了Cloud Sync，Planny将保存您的的任务数据存储在iCloud中以进行同步和备份。除了您之外，没有其他人可以看到您的数据。
 
-Bei Aktivierung der Synchronisierung akzeptierst du die Bedingungen und Privacy Policy";
+通过激活同步，您接受条款和隐私政策";
 
 
-"Import reminders" = "Erinnerungen importieren";
+"Import reminders" = "导入提醒";
 
-"Export" = "Exportiere";
+"Export" = "导出";
 
-"Delete iCloud data" = "iCloud-Daten löschen";
+"Delete iCloud data" = "删除iCloud数据";
 
-"Download iCloud data" = "Auszug der iCloud-Daten erhalten";
+"Download iCloud data" = "下载iCloud数据";
 
-"Export to reminders" = "Zu Erinnerungen exportieren";
+"Export to reminders" = "导出提醒";
 
-"Info" = "Information";
+"Info" = "信息";
 
-"On arrival" = "Bei Ankunft";
+"On arrival" = "抵达时";
 
-"On leave" = "Bei Verlassen";
+"On leave" = "离开时";
 
-"Pseudonym" = "Pseudonym";
+"Pseudonym" = "假名";
 
-"Pseudonym (Ranking)" = "Pseudonym (Ranking)";
+"Pseudonym (Ranking)" = "假名（排名）";
 
-"Documentation" = "Dokumentation";
+"Documentation" = "文档";
 
-"Arrived at location" = "Ankunft an Ort";
+"Arrived at location" = "到达地点";
 
-"Location" = "Ort";
+"Location" = "位置";
 
-"Location left" = "Ort verlassen";
+"Location left" = "离开位置";
 
-"Recents" = "Kürzlich";
+"Recents" = "最近";
 
-"Important" = "Wichtig";
+"Important" = "重要";
 
-"Purchased" = "Gekauft";
+"Purchased" = "已购买";
 
-"Activated (requires in ap purchase)" = "Aktiviert (benötigt In-App-Kauf)";
+"Activated (requires in ap purchase)" = "已激活（在购买时需要）";
 
-"Free Planny Pro Upgrade" = "Kostenloses Planny Pro Upgrade";
+"Free Planny Pro Upgrade" = "免费Planny Pro升级";
 
 
-"Collaboration" = "Zusammenarbeit";
+"Collaboration" = "协作";
 
-"No name" = "Kein Name";
+"No name" = "没有名字";
 
-"Create" = "Erstellen";
+"Create" = "创造";
 
-"Search for routine" = "Nach Routine suchen";
+"Search for routine" = "搜索例程";
 
-"Not available" = "Nicht verfügbar";
+"Not available" = "不可用";
 
-"Biometric authentification is not available on your iOS device or is disabled." = "Biometrische Authentifizierung ist auf dem iOS Gerät nicht verfügbar oder ausgeschaltet";
+"Biometric authentification is not available on your iOS device or is disabled." = "您的iOS设备无法使用生物识别身份验证或已停用";
 
-"FaceID / TouchID to open Planny" = "FaceID / TouchID benutzen, um Planny zu öffnen";
+"FaceID / TouchID to open Planny" = "FaceID / TouchID打开Planny”";
 
-"Tap to try again" = "Erneut versuchen";
+"Tap to try again" = "点击再试一次";
 
-"No tasks or suggestions available right now. Come back tomorrow." = "Derzeit sind keine Aufgaben oder Vorschläge verfügbar.";
+"No tasks or suggestions available right now. Come back tomorrow." = "现在没有任何任务或建议。明天回来。";
 
-"Did you already finish some tasks?" = "Hast du bereits einige Aufgaben erledigt?";
+"Did you already finish some tasks?" = "你有没有完成一些任务？";
 
-"Just wanted to remind you to finish some tasks" = "Ich wollte dich nur an deine Aufgaben erinnern";
+"Just wanted to remind you to finish some tasks" = "只是想提醒你完成一些任务";
 
-"Don't forget your daily tasks." = "Vergiss nicht deine heutigen Aufgaben";
+"Don't forget your daily tasks." = "不要忘记你的日常任务。";
 
-"Finish all tasks to get many productivity points." = "Erledige alle Aufgaben, um Produktivitäts-Punkte zu erhalten";
+"Finish all tasks to get many productivity points." = "完成所有任务以获得许多生产力点。";
 
-"Time" = "Uhrzeit";
+"Time" = "时间";
 
-"Date" = "Datum";
+"Date" = "日期";
 
 
 
-"Due today" = "Heute fällig";
+"Due today" = "今天到期";
 
-"One-off discount" = "Einmal-Rabatt";
+"One-off discount" = "一次性折扣";
 
-"Mail is not configured on your device" = "Mail ist auf diesem Gerät nicht konfiguriert";
+"Mail is not configured on your device" = "您的设备上未配置邮件";
 
-"No, thanks" = "Nein, danke";
+"No, thanks" = "不，谢谢";
 
-"Add a task" = "Aufgabe hinzufügen";
+"Add a task" = "添加任务";
 
-"Sorry, but you can't assign this task before the current day has been added." = "Du kannst diese Aufgabe erst hinzufügen, wenn der heutige Tag erstellt wurde.";
+"Sorry, but you can't assign this task before the current day has been added." = "抱歉，您无法在添加当天之前分配此任务";
 
-"iMsgManual" = "Schreib eine Aufgabe nieder und sende sie einem Freund. Dieser kann diese Aufgabe in der Nachrichten-App antippen und sie damit automatisch der Heute-Liste hinzufügen.";
+"iMsgManual" = "写下任务并将其发送给可以在新闻应用中点击此任务以自动将其添加到今日列表中的朋友。";
 
-"You received a task. Tap to add this task to your today list." = "Du hast eine Aufgabe erhalten. Tippe, um sie der Heute-Liste hinzuzufügem.";
+"You received a task. Tap to add this task to your today list." = "你收到了一个任务。点击将此任务添加到你今天的列表中。";
 
-"Counter" = "Countdown";
+"Counter" = "倒计时";
 
-"Repeat times" = "Wiederholungen";
+"Repeat times" = "重复次数";
 
-"Conditions" = "Bedingungen";
+"Conditions" = "条件";
 
-"No tasks" = "Keine Aufgaben";
+"No tasks" = "没有任务";
 
-"available" = "verfügbar";
+"available" = "可用";
 
 
-"left" = "übrig";
+"left" = "剩下";
 
-"days left" = "Tage verbleibend";
+"days left" = "剩下的日子";
 
-"One day left" = "Ein Tag verbleibend";
+"One day left" = "剩下的一天";
 
-"Due since" = "Fällig seit";
+"Due since" = "到期以来";
 
-"days" = "Tag(en)";
+"days" = "天";
 
-"Title" = "Titel";
+"Title" = "标题";
 
-"Goal" = "Ziel";
+"Goal" = "目标";
 
-"Color" = "Farbe";
+"Color" = "颜色";
 
-"Edit" = "Bearbeiten";
+"Edit" = "编辑";
 
-"Type to add task" = "Tippen um Aufgabe hinzuzufügen";
+"Type to add task" = "键入添加任务";
 
-"Plan your day" = "Tag planen";
+"Plan your day" = "计划你的一天";
 
-"Plan day" = "Tag planen";
+"Plan day" = "计划一天";
 
-"Planned" = "Geplant";
+"Planned" = "计划";
 
-"Due" = "Fällig";
+"Due" = "到期";
 
-"Sorry" = "Sorry";
+"Sorry" = "抱歉";
 
-"Efficiency / Reachability" = "Erreichbarkeit / Effizienz";
+"Efficiency / Reachability" = "效率/可达性";
 
-"Due tasks" = "Fällige Aufgaben";
+"Due tasks" = "到期任务";
 
-"Yesterday's successes" = "Gestrige Erfolge";
+"Yesterday's successes" = "昨天的成功";
 
-"Todo" = "Offen";
+"Todo" = "待办";
 
-"Done" = "Fertig";
+"Done" = "已完成";
 
-"Tap to add task" = "Tippen zum Hinzufügen";
+"Tap to add task" = "点击添加任务";
 
-"Today" = "Heute";
+"Today" = "今天";
 
-"Month" = "Monat";
+"Month" = "月";
 
-"Year" = "Jahr";
+"Year" = "年";
 
-"Add ons" = "Erweiterungen";
+"Add ons" = "扩展";
 
-"RESTORE PURCHASES" = "EINKÄUFE WIEDERHERSTELLEN";
+"RESTORE PURCHASES" = "恢复购买";
 
-"Yesterday" = "Gestern";
+"Yesterday" = "昨天";
 
-"Finished" = "Erledigt";
+"Finished" = "已完成";
 
-"Sunday" = "Sonntag";
+"Sunday" = "星期天";
 
-"Monday" = "Montag";
+"Monday" = "星期一";
 
-"Tuesday" = "Dienstag";
+"Tuesday" = "星期二";
 
-"Wednesday" = "Mittwoch";
+"Wednesday" = "星期三";
 
-"Thursday" = "Donnerstag";
+"Thursday" = "星期四";
 
-"Friday" = "Freitag";
+"Friday" = "星期五";
 
-"Contact developer" = "Entwickler kontaktieren";
+"Contact developer" = "联系开发者";
 
-"Saturday" = "Samstag";
+"Saturday" = "星期六";
 
-"Create list" = "Liste erstellen";
+"Create list" = "创建列表";
 
-"Add task" = "Aufgabe hinzufügen";
+"Add task" = "添加任务";
 
-"Not completed" = "Nicht abgeschlossen";
+"Not completed" = "未完成";
 
-"Days" = "Tage";
+"Days" = "天";
 
-"Up next" = "Geplant";
+"Up next" = "下一步";
 
-"Action" = "Aktion";
+"Action" = "行动";
 
-"Choose an action" = "Aktion wählen";
+"Choose an action" = "选择行动";
 
-"Finished" = "Erledigt";
+"Finished" = "已完成";
 
-"What would you like to do?" = "Was möchtest du tun?";
+"What would you like to do?" = "你想做什么？";
 
-"Rename / Schedule" = "Umbenennen / Umplanen";
+"Rename / Schedule" = "重命名/安排";
 
-"Archive" = "Archivieren";
+"Archive" = "存档";
 
-"Delete" = "Löschen";
+"Delete" = "删除";
 
-"Cancel" = "Abbrechen";
+"Cancel" = "取消";
 
-"Delete list" = "Liste löschen";
+"Delete list" = "删除清单";
 
 
-"Are you sure? You'll lose" = "Bist du sicher? Du verlierst alle Statistiken und Aufgaben zu dieser Liste";
+"Are you sure? You'll lose" = "你确定吗？”你会失去";
 
-"What would you like to do?" = "Was möchtest du tun?";
+"What would you like to do?" = "你想做什么？";
 
-"EDIT" = "BEARBEITEN";
+"EDIT" = "编辑";
 
-"Suggestion" = "Vorschlag";
+"Suggestion" = "建议";
 
-"Daily" = "Täglich";
+"Daily" = "每日";
 
-"Daily suggestions" = "Tägliche Vorschläge";
+"Daily suggestions" = "每日建议";
 
-"From yesterday" = "Übrig von gestern";
+"From yesterday" = "从昨天";
 
-"Type in address" = "Adresse eingeben";
+"Type in address" = "输入地址”";
 
-"Notes" = "Notizen";
+"Notes" = "注释";
 
-"Tap to add annotation" = "Tippen zum Hinzufügen";
+"Tap to add annotation" = "点按即可添加注释";
 
-"Your advantages" = "Deine Vorteile";
+"Your advantages" = "你的优势";
 
-"Location reminder" = "Ortserinnerung";
+"Location reminder" = "位置提醒";
 
-"Tomorrow" = "Morgen";
+"Tomorrow" = "明天";
 
-"Menu" = "Menü";
+"Menu" = "菜单";
 
-"Accept" = "Akzeptieren";
+"Accept" = "接受";
 
-"ArchiveInfoText" = "Die Liste wird nur noch über die Suche zu finden sein.";
+"ArchiveInfoText" = "该列表只能搜索。";
 
-"Settings" = "Einstellungen";
+"Settings" = "设置";
 
-"Set deadline" = "Deadline setzen";
+"Set deadline" = "设定截止日期";
 
-"Activating Cloud Sync. Please don't close the app" = "Cloud-Sync wird aktiviert. Bitte die App nicht beenden.";
+"Activating Cloud Sync. Please don't close the app" = "云同步将被激活，请不要停止应用。";
 
-"Deadline" = "Deadline";
+"Deadline" = "截止日期";
 
-"Set color" = "Farbe auswählen";
+"Set color" = "设置颜色";
 
-"Annotations" = "Anmerkungen";
+"Annotations" = "注释";
 
-"Add" = "Hinzufügen";
+"Add" = "添加";
 
-"Routines" = "Routinen";
+"Routines" = "例程";
 
-"Mo" = "Mo";
+"Mo" = "一";
 
-"Tu" = "Di";
+"Tu" = "二";
 
-"We" = "Mi";
+"We" = "三";
 
-"Th" = "Do";
+"Th" = "四";
 
-"Fr" = "Fr";
+"Fr" = "五";
 
-"Sa" = "Sa";
+"Sa" = "六";
 
-"Su" = "So";
+"Su" = "日";
 
 
 
-"Create routine" = "Routine erstellen";
+"Create routine" = "新增例程";
 
-"Edit routine" = "Routine bearbeiten";
+"Edit routine" = "编辑例程";
 
-"Download Planny and try to be more productive than me :)" = "Lade Planny herunter und versuche, produktiver als ich zu sein.";
+"Download Planny and try to be more productive than me :)" = "下载Planny并尝试提高我的工作效率:)";
 
-"Productivity" = "Produktivität";
+"Productivity" = "生产力";
 
-"Synced changes: " = "Synchronisierte Änderungen: ";
+"Synced changes: " = "同步更改： ";
 
-"Preparing sync" = "Sync wird vorbereitet";
+"Preparing sync" = "正在准备同步";
 
 
-"reminderText" = "Häufigkeit der Erinnerungen";
+"reminderText" = "提醒频率";
 
-"Welcome" = "Willkommen";
+"Welcome" = "欢迎";
 
-"welcomeText" = "Willkommen bei Planny";
+"welcomeText" = "欢迎来到Planny";
 
-"Delete tag" = "Tag löschen";
+"Delete tag" = "删除标签";
 
-"Overdue" = "Überfällig";
+"Overdue" = "逾期";
 
-"Mark done tasks" = "Erledigte abhaken";
+"Mark done tasks" = "标记完成的任务";
 
-"tasks on your list" = "Aufgaben sind noch zu erledigen";
+"tasks on your list" = "列表中的任务";
 
-"3D-Touch to show tasks" = "3D-Touch um Aufgaben anzuzeigen";
+"3D-Touch to show tasks" = "3D Touch显示任务";
 
-"DoneN" = "Erledigt";
+"DoneN" = "完成";
 
-"Remind in 15 minutes" = "Erinnern in 15 Minuten";
+"Remind in 15 minutes" = "15分钟后提醒";
 
-"Remind in one hour" = "Erinnern in einer Stunde";
+"Remind in one hour" = "1小时后提醒";
 
-"Due task: " = "Fällige Aufgabe: ";
+"Due task: " = "到期任务: ";
 
-"Due time" = "Fälligkeit";
+"Due time" = "到期时间";
 
-"Already finished some tasks?" = "Hast du bereits etwas erledigt?";
+"Already finished some tasks?" = "已经完成了一些任务？";
 
-"At the moment" = "Aktuell";
+"At the moment" = "当前";
 
-"Recent days" = "Vergangene Tage";
+"Recent days" = "最近几天";
 
-"minutes left" = "Minuten verbleibend";
+"minutes left" = "剩余分钟";
 
-"hours left" = "Stunden verbleibend";
+"hours left" = "剩余小时";
 
 
-"Goal achieved" = "Tagesziel erreicht";
+"Goal achieved" = "达到目标";
 
-"Not reached" = "Nicht abgeschlossen";
+"Not reached" = "未达到";
 
 
-"Clean up" = "Aufräumen";
+"Clean up" = "清理";
 
-"Use Planny" = "Planny benutzen";
+"Use Planny" = "使用Planny";
 
-"Work out" = "Sport betreiben";
+"Work out" = "锻炼";
 
-"Write research paper" = "Hausarbeit schreiben";
+"Write research paper" = "撰写研究论文";
 
-"Go shopping" = "Einkaufen";
+"Go shopping" = "购物";
 
-"Refuel car" = "Auto tanken";
+"Refuel car" = "给车加油";
 
-"Drink 2 liters of water" = "2 Liter Wasser trinken";
+"Drink 2 liters of water" = "喝2升水";
 
-"Calendar" = "Kalender";
+"Calendar" = "日历";
 
 
-"Important" = "Wichtig";
+"Important" = "重要";
 
-"Tap to plan your first day" = "Tippen um deinen ersten Tag zu planen";
+"Tap to plan your first day" = "点击计划你的第一天";
 
-"I wait" = "Ich werde warten";
+"I wait" = "我等";
 
-"ActivationSuccess" = "Cloud Sync ist jetzt aktiv";
+"ActivationSuccess" = "云同步现在处于活动状态";
 
-"Success" = "Erfolg";
+"Success" = "成功";
 
 
-"ActivateWatchMsg" = "Wenn Planny Pro aktiv ist, wird jetzt der Cloud-Sync aktiviert. Dies kann auf der Apple Watch einige Zeit dauern. Bitte warten.";
+"ActivateWatchMsg" = "如果Planny Pro处于活动状态，Cloud Sync现在将被激活，Apple Watch可能需要一些时间，请稍候。";
 
-"Network unavailable" = "Netzwerk nicht verfügbar";
+"Network unavailable" = "网络不可用";
  
-"iCloud unavailable" = "iCloud nicht verfügbar";
+"iCloud unavailable" = "iCloud不可用";
 
 
-"Quota exceeded" = "iCloud Speicher voll";
+"Quota exceeded" = "iCloud内存已满";
 
-"Network failure" = "Netzwerk fehlerhaft";
+"Network failure" = "网络错误";
 
-"Something went wrong" = "Etwas ist schief gelaufen";
+"Something went wrong" = "出了问题";
 
-"Requires Planny Pro" = "Benötigt Planny Pro";
+"Requires Planny Pro" = "需要Planny Pro";
 
-"Free limit exceeded" = "Limit überschritten";
+"Free limit exceeded" = "超出免费限额";
 
-"Active" = "Aktiv";
+"Active" = "活跃";
 
-"Purchased" = "Erworben";
+"Purchased" = "已购买";
 
-"to unlock" = "zum Freischalten";
+"to unlock" = "解锁";
 
-"Add your first routine" = "Erstelle deine erste Routine";
+"Add your first routine" = "添加你的第一个例程";
 
-"Add day" = "Tag hinzufügen";
+"Add day" = "添加日";
 
-"My first project" = "Mein erstes Projekt";
+"My first project" = "我的第一个项目";
 
-"Complete first task" = "Erste Aufgabe absolvieren";
+"Complete first task" = "完成第一项任务";
 
-"Please wait" = "Bitte warten";
+"Please wait" = "请等一下";
 
-"One moment ..." = "Einen Moment ...";
+"One moment ..." = "稍等 ...";
 
-"Use calendar" = "Kalender nutzen";
+"Use calendar" = "使用日历";
 
-"Privacy" = "Privatsphäre"; 
+"Privacy" = "隐私"; 
 
-"Requires in app purchase" = "Benötigt In-App-Kauf";
+"Requires in app purchase" = "需要应用内购买";
 
-"Monthly repeat day" = "Tag im Monat";
+"Monthly repeat day" = "每月重复日";
 
-"Tap to add your tasks for today" = "Tippen zum Auswählen der Aufgaben";
+"Tap to add your tasks for today" = "点按即可添加今天的任务";
 
-"Anytime" = "Irgendwann";
+"Anytime" = "随时";
 
-"Points" = "Punkte";
+"Points" = "积分";
 
-"Current points" = "Aktuelle Punkte";
+"Current points" = "当前点数";
 
-"Sync to iCloud requires Planny Pro" = "iCloud-Sync benötigt Planny Pro";
+"Sync to iCloud requires Planny Pro" = "iCloud Sync需要Planny Pro";
 
-"iCloud not available" = "iCloud not available";
+"iCloud not available" = "iCloud不可用";
 
-"No today list available yet" = "Bisher keine Heute-Liste erstellt";
+"No today list available yet" = "尚未创建今日列表";
 
-"Syncing ..." = "Synchronisiert ...";
+"Syncing ..." = "同步 ...";
 
-"Day review" = "Rückblick";
+"Day review" = "日评";
 
-"Pending planny points" = "Ausstehende Planny-Punkte";
+"Pending planny points" = "等待计划点";
 
-"continueToKarma" = "Plane den nächsten Tag, um deine Planny-Punkte zu erhalten.";
+"continueToKarma" = "计划第二天获得你的Planny积分。.";
 
-"Planny points" = "Punkte";
+"Planny points" = "积分";
 
-"Assign" = "Zuordnen";
+"Assign" = "分配";
 
-"Me" = "Ich";
+"Me" = "我";
 
-"This task was added to your daily list." = "Diese Aufgabe wurde der heutigen Liste hinzugefügt.";
+"This task was added to your daily list." = "此任务已添加到您的每日列表中.";
 
-"Added" = "Hinzugefügt";
+"Added" = "已添加";
 
-"Select a list" = "Wähle eine Liste aus";
+"Select a list" = "选择列表";
 
-"List" = "Liste";
+"List" = "列表";
 
-"Assign to day" = "Zu Tag zuordnen";
+"Assign to day" = "分配到日";
 
-"Shift due dates" = "Deadlines verschieben";
+"Shift due dates" = "移动截止日期";
 
-"Edit" = "Bearbeiten";
+"Edit" = "编辑";
 
-"Planned for today" = "Für heute vorgemerkt";
+"Planned for today" = "计划今天";
 
-"Do tomorrow" = "Morgen erledigen";
+"Do tomorrow" = "明天做";
 
-"Move to future" = "An einem anderen Tag erledigen";
+"Move to future" = "移动到将来";
 
-"Location reminder" = "Ortserinnerung";
+"Location reminder" = "位置提醒";
 
-"Tags" = "Schlagwörter";
+"Tags" = "标签";
 
-"Restore" = "Wiederherstellen";
+"Restore" = "恢复";
 
-"College" = "Studium";
+"College" = "学习";
 
-"Shopping" = "Einkaufen";
+"Shopping" = "购物";
 
-"Remove" = "Entfernen";
+"Remove" = "删除";
 
-"Routine" = "Routine";
+"Routine" = "例程";
 
-"Due date" = "Deadline";
+"Due date" = "截止日期";
 
-"Suggestion" = "Vorschlag";
+"Suggestion" = "建议";
